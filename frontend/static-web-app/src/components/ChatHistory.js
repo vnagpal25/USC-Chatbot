@@ -56,14 +56,58 @@ function Chat() {
   const [ Messages, SetMessages ] = useState([new Message('', 'welcome')]);
   
   const [ CurrMsg, SetCurrMsg ] = useState('');
+  
+  // Track displayed message portion
+  const [displayedMsg, setDisplayedMsg] = useState('');
+
+  // Track if message is being posted
+  const [isPosting, setIsPosting] = useState(false);
 
   let UpdateTxt = (ev) => {
     SetCurrMsg(ev.target.value);
   };
   let PostMsg = (ev) => {
+    // Posting message
+    //setIsPosting(true);
     SetMessages(Messages.concat([new Message(CurrMsg, 'client'), new Message(SendRequest(CurrMsg), 'lm')]));
+    // Clear input field after posting msg
+  //  setCurrMsg('');
     ev.preventDefault();
   };
+/*
+  useEffect(() => {
+    // Display message letter by letter when message is being posted
+    if (isPosting && displayedMsg !== currMsg) {
+      const timer = setTimeout(() => {
+        setDisplayedMsg(currMsg.slice(0, displayedMsg.length + 1));
+      }, 100); // Adjust delay as needed
+      // Clear timeout when component unmounts or when message is fully displayed
+      return () => {
+        clearTimeout(timer);
+        if (displayedMsg === currMsg) {
+          setIsPosting(false);
+        }
+      };
+    }
+  }, [isPosting, displayedMsg, currMsg]);
+
+  return (
+    <div className='chat'>
+      <ul>
+        {messages.map((m, index) => (
+          <li className={m.from} key={index}>
+            {m.from === 'welcome' ? 'Welcome!' : m.msg}
+          </li>
+        ))}
+      </ul>
+      <form onSubmit={postMsg}>
+        <input type='text' placeholder='Ask me anything...' value={currMsg} onChange={updateTxt} />
+        <input type='submit' value='Send' />
+      </form>
+    </div>
+  );
+}
+*/
   let MessageHist = Messages.map((m) => {
         return (
           <li class={m.from}>
