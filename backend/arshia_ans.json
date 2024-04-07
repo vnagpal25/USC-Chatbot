@@ -1,121 +1,116 @@
 [
-
-    {
-      "question": "What is the Office of Student Advocacy?",
-      "answer": "The first stop for students and parents with questions about USC or needing help navigating the university."
-    },
-    {
-      "question": "How can the Office of Student Advocacy assist students and parents?",
-      "answer": "By connecting them to resources and programs to maximize their college experience."
-    },
-    {
-      "question": "What are the contact details for the Office of Student Advocacy?",
-      "answer": "Phone: 803-777-4872, Email: studentadvocacy@scedu, Location: Russell House West Wing Suite 115."
-    },
-    {
-      "question": "What information can be obtained from Events and Deadlines?",
-      "answer": "Critical academic-related dates, cant-miss university events, who, what, when, where, and why."
-    },
-    {
-      "question": "What resources and support are provided to students by USC?",
-      "answer": "Resources and support needed to be successful in academic pursuits, maximizing every facet of the academic experience or connecting with university resources."
-    },
-    {
-      "question": "Where can students find valuable learning opportunities across the University of South Carolina campus?",
-      "answer": "Through student employment resources."
-    },
-    {
-      "question": "What options are available for student employment?",
-      "answer": "Finding a job, work-study options, and Campus Conversation."
-    },
-    {
-      "question": "What is an example of a student's experience with the music industry studies program?",
-      "answer": "Bella Veal had opportunities like interning at multiple Danny Wimmer Presents music festivals."
-    },
-    {
-      "question": "How does the music industry studies program impact students?",
-      "answer": "It pushes students outside of their comfort zone while providing an amazing community for support."
-    },
-    {
-      "question": "What is highlighted in the Cool Classes Fall 2024?",
-      "answer": "A selection of cool classes for Fall 2024, including fan favorites and new additions."
-    },
-    {
-      "question": "What unique learning experiences are available at South Carolina for Fall 2024?",
-      "answer": "Classes covering sports, true crime, dancing, cooking, and other subjects."
-    },
-    {
-      "question": "What milestone is the USC String Project celebrating?",
-      "answer": "Its 50th anniversary."
-    },
-    {
-      "question": "What is the University of South Carolina String Project known for?",
-      "answer": "Combining music lessons with community service and teacher education."
-    },
-    {
-      "question": "What is significant about the archaeological research being conducted by Honors College students?",
-      "answer": "They are excavating the Horseshoe to raise awareness of the enslaved labor force that built the university, marking the first time in 51 years that archaeological research is being done at the heart of campus."
-    },
-    {
-      "question": "What sites are the students in 'Digging through the past Exploring the Archaeological Resources of USC' working around?",
-      "answer": "The old president's house, enslaved quarters, and an observatory."
-    },
-    {
-      "question": "What areas of study are University of South Carolina researchers exploring with artificial intelligence?",
-      "answer": "Advancements in health care, education, manufacturing, energy, disaster management, transportation, and ethics/policies surrounding AI."
-    },
-
-    {
-      "question": "What role do advisors play in academic advising?",
-      "answer": "They help students define and achieve their goals from freshman year to graduation."
-    },
-    {
-      "question": "What type of support do advisors provide?",
-      "answer": "Individualized and ongoing learning support."
-    },
-    {
-      "question": "Who is eligible to earn recognition and a cash prize through the Libraries Undergraduate Research Awards?",
-      "answer": "All undergraduate students who used library resources to complete a research assignment for a class this year."
-    },
-
-    {
-      "question": "What is the purpose of the Honors College class excavating the Horseshoe?",
-      "answer": "To raise awareness of the enslaved labor force that built the university."
-    },
-    {
-      "question": "How significant is the archaeological research being conducted by the Honors College class?",
-      "answer": "It marks the first time in 51 years that such research is being done at the heart of campus."
-    },
-    {
-      "question": "What are the three mapped sites that students in 'Digging through the past Exploring the Archaeological Resources of USC' work around?",
-      "answer": "The old president's house, enslaved quarters, and an observatory."
-    },
-
-    {
-      "question": "What resources are provided by the CommUnity Shop?",
-      "answer": "Food, clothing, toiletries, school supplies, and other essentials to individuals experiencing basic needs insecurities."
-    },
-    {
-      "question": "What services are provided by Campus Recreation?",
-      "answer": "Programs and services that promote fitness and quality of life."
-    },
-    {
-      "question": "What is the purpose of Campus Safety?",
-      "answer": "To take immediate action in harmful situations."
-    },
-    {
-      "question": "What services does the Career Center offer?",
-      "answer": "Support at all stages of career planning, from identifying possibilities to making decisions on future direction to searching for hands-on experience."
-    },
-    {
-      "question": "How can students get assistance with changing their majors?",
-      "answer": "Advisors are available for in-person or remote major change advising sessions to understand the next steps."
-    },
-    {
-      "question": "What events are part of Future Alumni Week?",
-      "answer": "Events ranging from graduation prep to social activities to wellness and personal development."
-    }
-,
+  {
+    "question": "What is the Office of Student Advocacy?",
+    "answer": "The first stop for students and parents with questions about USC or needing help navigating the university."
+  },
+  {
+    "question": "How can the Office of Student Advocacy assist students and parents?",
+    "answer": "By connecting them to resources and programs to maximize their college experience."
+  },
+  {
+    "question": "What are the contact details for the Office of Student Advocacy?",
+    "answer": "Phone: 803-777-4872, Email: studentadvocacy@scedu, Location: Russell House West Wing Suite 115."
+  },
+  {
+    "question": "What information can be obtained from Events and Deadlines?",
+    "answer": "Critical academic-related dates, cant-miss university events, who, what, when, where, and why."
+  },
+  {
+    "question": "What resources and support are provided to students by USC?",
+    "answer": "Resources and support needed to be successful in academic pursuits, maximizing every facet of the academic experience or connecting with university resources."
+  },
+  {
+    "question": "Where can students find valuable learning opportunities across the University of South Carolina campus?",
+    "answer": "Through student employment resources."
+  },
+  {
+    "question": "What options are available for student employment?",
+    "answer": "Finding a job, work-study options, and Campus Conversation."
+  },
+  {
+    "question": "What is an example of a student's experience with the music industry studies program?",
+    "answer": "Bella Veal had opportunities like interning at multiple Danny Wimmer Presents music festivals."
+  },
+  {
+    "question": "How does the music industry studies program impact students?",
+    "answer": "It pushes students outside of their comfort zone while providing an amazing community for support."
+  },
+  {
+    "question": "What is highlighted in the Cool Classes Fall 2024?",
+    "answer": "A selection of cool classes for Fall 2024, including fan favorites and new additions."
+  },
+  {
+    "question": "What unique learning experiences are available at South Carolina for Fall 2024?",
+    "answer": "Classes covering sports, true crime, dancing, cooking, and other subjects."
+  },
+  {
+    "question": "What milestone is the USC String Project celebrating?",
+    "answer": "Its 50th anniversary."
+  },
+  {
+    "question": "What is the University of South Carolina String Project known for?",
+    "answer": "Combining music lessons with community service and teacher education."
+  },
+  {
+    "question": "What is significant about the archaeological research being conducted by Honors College students?",
+    "answer": "They are excavating the Horseshoe to raise awareness of the enslaved labor force that built the university, marking the first time in 51 years that archaeological research is being done at the heart of campus."
+  },
+  {
+    "question": "What sites are the students in 'Digging through the past Exploring the Archaeological Resources of USC' working around?",
+    "answer": "The old president's house, enslaved quarters, and an observatory."
+  },
+  {
+    "question": "What areas of study are University of South Carolina researchers exploring with artificial intelligence?",
+    "answer": "Advancements in health care, education, manufacturing, energy, disaster management, transportation, and ethics/policies surrounding AI."
+  },
+  {
+    "question": "What role do advisors play in academic advising?",
+    "answer": "They help students define and achieve their goals from freshman year to graduation."
+  },
+  {
+    "question": "What type of support do advisors provide?",
+    "answer": "Individualized and ongoing learning support."
+  },
+  {
+    "question": "Who is eligible to earn recognition and a cash prize through the Libraries Undergraduate Research Awards?",
+    "answer": "All undergraduate students who used library resources to complete a research assignment for a class this year."
+  },
+  {
+    "question": "What is the purpose of the Honors College class excavating the Horseshoe?",
+    "answer": "To raise awareness of the enslaved labor force that built the university."
+  },
+  {
+    "question": "How significant is the archaeological research being conducted by the Honors College class?",
+    "answer": "It marks the first time in 51 years that such research is being done at the heart of campus."
+  },
+  {
+    "question": "What are the three mapped sites that students in 'Digging through the past Exploring the Archaeological Resources of USC' work around?",
+    "answer": "The old president's house, enslaved quarters, and an observatory."
+  },
+  {
+    "question": "What resources are provided by the CommUnity Shop?",
+    "answer": "Food, clothing, toiletries, school supplies, and other essentials to individuals experiencing basic needs insecurities."
+  },
+  {
+    "question": "What services are provided by Campus Recreation?",
+    "answer": "Programs and services that promote fitness and quality of life."
+  },
+  {
+    "question": "What is the purpose of Campus Safety?",
+    "answer": "To take immediate action in harmful situations."
+  },
+  {
+    "question": "What services does the Career Center offer?",
+    "answer": "Support at all stages of career planning, from identifying possibilities to making decisions on future direction to searching for hands-on experience."
+  },
+  {
+    "question": "How can students get assistance with changing their majors?",
+    "answer": "Advisors are available for in-person or remote major change advising sessions to understand the next steps."
+  },
+  {
+    "question": "What events are part of Future Alumni Week?",
+    "answer": "Events ranging from graduation prep to social activities to wellness and personal development."
+  },
   {
     "question": "When will Creed Week be held?",
     "answer": "April 8-12."
@@ -192,7 +187,6 @@
     "question": "What support does the campus community offer for navigating the college experience?",
     "answer": "Resources dedicated to ensuring a safe experience for everyone."
   },
-
   {
     "question": "How can the Office of Student Advocacy be contacted?",
     "answer": "Phone: 803-777-4872, Email: studentadvocacy@scedu, Location: Russell House West Wing Suite 115."
@@ -233,7 +227,6 @@
     "question": "What areas do University of South Carolina researchers explore?",
     "answer": "Artificial intelligence applications in health care, education, manufacturing, energy, disaster management, and transportation, as well as the ethical and policy considerations surrounding these applications."
   },
-
   {
     "question": "What is highlighted about the classes available for Fall 2024?",
     "answer": "They include fan favorites and new classes, offering unique learning experiences in various fields."
@@ -298,8 +291,6 @@
     "question": "Where can one find the latest information about university events and academic-related dates?",
     "answer": "By accessing university resources or website."
   },
-
-
   {
     "question": "Where can one find valuable learning opportunities on the University of South Carolina campus?",
     "answer": "All over the campus."
@@ -392,7 +383,6 @@
     "question": "What is the purpose of the First-Generation Center?",
     "answer": "To find its inaugural class of mentors."
   },
-
   {
     "question": "What is the purpose of the leadership groups at the university?",
     "answer": "To further the school's long-term objectives and goals."
@@ -429,76 +419,74 @@
     "question": "What is the commitment towards faculty and staff?",
     "answer": "Providing resources and support to ensure success in their important work with students."
   },
-
-    {
-        "question": "Where is it most difficult to access healthy food in South Carolina?",
-        "answer": "In communities where more than half a million South Carolinians experience food insecurity, particularly in Black, Latino, indigenous, low-income, and rural communities."
-    },
-    {
-        "question": "What are the demographics most impacted by food insecurity in South Carolina?",
-        "answer": "Black, Latino, indigenous, low-income, and rural communities."
-    },
-    {
-        "question": "What opportunities does the music industry studies program offer?",
-        "answer": "Opportunities such as interning at multiple Danny Wimmer Presents music festivals throughout the year."
-    },
-    {
-        "question": "When are the Let's Talk drop-in sessions held and where?",
-        "answer": "They are held from 3-4 pm on Tuesdays and from 1-2 pm on Wednesdays in Russell House Room 303."
-    },
-    {
-        "question": "What is Aaron Gaga's background and current pursuit?",
-        "answer": "Aaron Gaga was born in 1987 as a refugee in Uganda, his parents having fled his native Rwanda because of conflict. Now, thirty years after the Rwandan genocide, he is a graduate student in the University of South Carolina's Master of Sport and Entertainment Management program, pursuing his master's degree to advance his career and help his country continue to rebuild."
-    },
-
-    {
-        "question": "What services do Changing Majors Exploratory Advising Advisors provide?",
-        "answer": "They offer in-person or remote major change advising sessions to understand the next steps."
-    },
-    {
-        "question": "What does USC provide to support students' academic achievements?",
-        "answer": "Comprehensive resources and designs."
-    },
-    {
-        "question": "How can students find support and resources tailored to their university experience?",
-        "answer": "Review the tabs below to match popular topics with trusted resources or contact Parent and Family Programs for help."
-    },
-    {
-        "question": "What can listeners explore through the Remembering the Days podcast?",
-        "answer": "The history of the state's flagship university."
-    },
-    {
-        "question": "What are the unique excursions offered to Gamecocks?",
-        "answer": "Excursions with all-inclusive itineraries designed for the intellectually curious traveler."
-    },
-    {
-        "question": "What resources are available to help with food security and housing?",
-        "answer": "Resources related to food and housing."
-    },
-    {
-        "question": "What activities do volunteers lead in cities around the world?",
-        "answer": "Fun and meaningful activities in over 45 cities."
-    },
-    {
-        "question": "What financial transactions does USC aim to make easy for students?",
-        "answer": "Financial transactions that support the student, from applying for financial aid to loading Carolina Cash on their CarolinaCard."
-    },
-    {
-        "question": "What is the Gamecock CommUnity Shop?",
-        "answer": "It is a campus food pantry created for students by students, offering free, confidential assistance and resources."
-    },
-    {
-        "question": "What exciting event is happening on September 19-21, 2024?",
-        "answer": "An unforgettable weekend."
-    },
-    {
-        "question": "What is Carolinian?",
-        "answer": "The university's official alumni magazine."
-    },
-    {
-        "question": "What types of events does the association host for Gamecocks?",
-        "answer": "Engaging events."
-    },
+  {
+    "question": "Where is it most difficult to access healthy food in South Carolina?",
+    "answer": "In communities where more than half a million South Carolinians experience food insecurity, particularly in Black, Latino, indigenous, low-income, and rural communities."
+  },
+  {
+    "question": "What are the demographics most impacted by food insecurity in South Carolina?",
+    "answer": "Black, Latino, indigenous, low-income, and rural communities."
+  },
+  {
+    "question": "What opportunities does the music industry studies program offer?",
+    "answer": "Opportunities such as interning at multiple Danny Wimmer Presents music festivals throughout the year."
+  },
+  {
+    "question": "When are the Let's Talk drop-in sessions held and where?",
+    "answer": "They are held from 3-4 pm on Tuesdays and from 1-2 pm on Wednesdays in Russell House Room 303."
+  },
+  {
+    "question": "What is Aaron Gaga's background and current pursuit?",
+    "answer": "Aaron Gaga was born in 1987 as a refugee in Uganda, his parents having fled his native Rwanda because of conflict. Now, thirty years after the Rwandan genocide, he is a graduate student in the University of South Carolina's Master of Sport and Entertainment Management program, pursuing his master's degree to advance his career and help his country continue to rebuild."
+  },
+  {
+    "question": "What services do Changing Majors Exploratory Advising Advisors provide?",
+    "answer": "They offer in-person or remote major change advising sessions to understand the next steps."
+  },
+  {
+    "question": "What does USC provide to support students' academic achievements?",
+    "answer": "Comprehensive resources and designs."
+  },
+  {
+    "question": "How can students find support and resources tailored to their university experience?",
+    "answer": "Review the tabs below to match popular topics with trusted resources or contact Parent and Family Programs for help."
+  },
+  {
+    "question": "What can listeners explore through the Remembering the Days podcast?",
+    "answer": "The history of the state's flagship university."
+  },
+  {
+    "question": "What are the unique excursions offered to Gamecocks?",
+    "answer": "Excursions with all-inclusive itineraries designed for the intellectually curious traveler."
+  },
+  {
+    "question": "What resources are available to help with food security and housing?",
+    "answer": "Resources related to food and housing."
+  },
+  {
+    "question": "What activities do volunteers lead in cities around the world?",
+    "answer": "Fun and meaningful activities in over 45 cities."
+  },
+  {
+    "question": "What financial transactions does USC aim to make easy for students?",
+    "answer": "Financial transactions that support the student, from applying for financial aid to loading Carolina Cash on their CarolinaCard."
+  },
+  {
+    "question": "What is the Gamecock CommUnity Shop?",
+    "answer": "It is a campus food pantry created for students by students, offering free, confidential assistance and resources."
+  },
+  {
+    "question": "What exciting event is happening on September 19-21, 2024?",
+    "answer": "An unforgettable weekend."
+  },
+  {
+    "question": "What is Carolinian?",
+    "answer": "The university's official alumni magazine."
+  },
+  {
+    "question": "What types of events does the association host for Gamecocks?",
+    "answer": "Engaging events."
+  },
   {
     "question": "What types of events does the alumni association host?",
     "answer": "The alumni association hosts hundreds of engaging events every year."
@@ -543,8 +531,6 @@
     "question": "What information is provided about on-campus housing?",
     "answer": "Information about on-campus residence options and opportunities within the Carolina community is provided."
   },
-
-  [
   {
     "question": "How can parents contact the university?",
     "answer": "Parents can contact the university by phone at 803-777-3008, email at scparents@sc.edu, or through the mobile app at http://guidebook.com/app/uofscparents."
@@ -605,9 +591,6 @@
     "question": "What areas do University of South Carolina researchers explore with artificial intelligence?",
     "answer": "University of South Carolina researchers explore how artificial intelligence can be used for advancements in health care, education, manufacturing, energy, disaster management, and transportation, as well as shaping ethics and policies surrounding these solutions."
   },
-
-
-  [
   {
     "question": "What opportunities are available for alumni to stay connected to USC?",
     "answer": "Alumni can join alumni clubs, mentor current USC students, explore the globe with other Gamecocks, advocate for higher education, and more."
@@ -640,7 +623,6 @@
     "question": "What is the alumni association's message to students?",
     "answer": "The alumni association encourages students to join to connect with a strong network of Gamecocks and give back to the university."
   },
-
   {
     "question": "How can employees maintain their preferred university email addresses?",
     "answer": "Employees are responsible for maintaining their preferred university email addresses in the Account Management System. Corrections such as name, phone number, department, and building number can be made in People Soft Employee Self Service Personal Details."
@@ -680,8 +662,7 @@
   {
     "question": "Where should one apply for PharmD programs other than the College of Pharmacy?",
     "answer": "One should explore PharmD admissions criteria and application information through The Graduate School for other pharmacy programs."
-  } ,
-    
+  },
   {
     "question": "How can one further their professional knowledge as a graduate student at the University of South Carolina?",
     "answer": "One can further their professional knowledge by applying for admission to a USC graduate degree program."
@@ -726,8 +707,6 @@
     "question": "Where can one find the non-degree application?",
     "answer": "The non-degree application can be found on the university's website."
   },
-
-[
   {
     "question": "What services are provided by Postal Services?",
     "answer": "Postal Services offers package pickup for on-campus resident students, postal retail, and passport services."
@@ -796,7 +775,6 @@
     "question": "What economic impact does the university have on the state?",
     "answer": "Along with $202 million in annual tax revenue for the state, the university returns $25 to the state's economy for each $1"
   },
-
   {
     "question": "Who should apply as an international freshman or transfer student?",
     "answer": "International freshman or transfer students who are non-US citizens or non-US permanent residents should apply."
@@ -885,9 +863,6 @@
     "question": "What was a memorable experience shared by an admitted student?",
     "answer": "An admitted student took a tour of Green Quad and fell in love with how everything looked there."
   },
-
-
-[
   {
     "question": "What can students do in South Carolina's dedicated Greek Village?",
     "answer": "Share a home with fellow fraternity or sorority chapter members in our university's dedicated Greek Village, a collection of 20 houses."
@@ -960,7 +935,6 @@
     "question": "What are Gracie Vess's aspirations and beliefs regarding history?",
     "answer": "Gracie Vess, a South Carolina Honors College senior and McNair scholarship recipient, aspires to become a high school history teacher. She believes in shaping the future by teaching her students that history is crafted by the collective actions of many people and that being an active citizen is crucial."
   },
-
   {
     "question": "What is Mark Becker's role and affiliation?",
     "answer": "Mark Becker is president of the Association of Public and Land-Grant Universities (APLU), a research policy and advocacy organization dedicated to strengthening and advancing the work of public research universities."
@@ -1021,14 +995,4 @@
     "question": "What summer activities does USC offer for children?",
     "answer": "USC offers a wide variety of summer camps for all ages and interests, including music, soccer, dance, and engineering."
   }
-
-
-
-
-
-
-
-
-
-
 ]
