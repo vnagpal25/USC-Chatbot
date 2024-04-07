@@ -543,8 +543,6 @@
     "question": "What information is provided about on-campus housing?",
     "answer": "Information about on-campus residence options and opportunities within the Carolina community is provided."
   },
-
-  [
   {
     "question": "How can parents contact the university?",
     "answer": "Parents can contact the university by phone at 803-777-3008, email at scparents@sc.edu, or through the mobile app at http://guidebook.com/app/uofscparents."
@@ -606,8 +604,6 @@
     "answer": "University of South Carolina researchers explore how artificial intelligence can be used for advancements in health care, education, manufacturing, energy, disaster management, and transportation, as well as shaping ethics and policies surrounding these solutions."
   },
 
-
-  [
   {
     "question": "What opportunities are available for alumni to stay connected to USC?",
     "answer": "Alumni can join alumni clubs, mentor current USC students, explore the globe with other Gamecocks, advocate for higher education, and more."
@@ -727,7 +723,6 @@
     "answer": "The non-degree application can be found on the university's website."
   },
 
-[
   {
     "question": "What services are provided by Postal Services?",
     "answer": "Postal Services offers package pickup for on-campus resident students, postal retail, and passport services."
@@ -886,8 +881,6 @@
     "answer": "An admitted student took a tour of Green Quad and fell in love with how everything looked there."
   },
 
-
-[
   {
     "question": "What can students do in South Carolina's dedicated Greek Village?",
     "answer": "Share a home with fellow fraternity or sorority chapter members in our university's dedicated Greek Village, a collection of 20 houses."
@@ -1932,7 +1925,1412 @@
   {
     "question": "What should individuals do once they complete their registration?",
     "answer": "Once individuals complete their registration, they'll receive notifications about active emergency alerts."
+  },
+
+  {
+    "question": "What role can adjunct part-time or temporary employees play at the university?",
+    "answer": "Adjunct part-time or temporary employees can share specialized knowledge with students through teaching, work in research programs, or in other administrative jobs, contributing to student life and success or world-class research."
+  },
+  {
+    "question": "What is Laura Langan's focus as an assistant professor in the Department of Environmental Health Sciences?",
+    "answer": "Laura Langan is focusing on finding answers to the impacts resulting from the nexus of human and environmental interactions."
+  },
+  {
+    "question": "How are Brian and Rachel Clouse contributing to helping girls and families with fragile X syndrome?",
+    "answer": "Brian and Rachel Clouse are supporting programs and research dedicated to females with fragile X syndrome through their nonprofit organization."
+  },
+  {
+    "question": "What opportunities are available at the South Carolina Honors College?",
+    "answer": "At the South Carolina Honors College, students can choose from hundreds of engaging courses, live with high-achieving classmates, and experience learning that goes far beyond the classroom."
+  },
+  {
+    "question": "What motivates Jackie Whitmore's career in social work?",
+    "answer": "Building and understanding community, fueled by a passion for African American history, has motivated Jackie Whitmore's career in social work."
+  },
+  {
+    "question": "What award has College of Social Work PhD student Julisa Tindall received?",
+    "answer": "Julisa Tindall has been named a recipient of the 2024 Grand Challenges Doctoral Award."
+  },
+  {
+    "question": "What is the significance of the University of South Carolina in South Carolina?",
+    "answer": "The University of South Carolina is widely known and has an impressive history in South Carolina."
+  },
+  {
+    "question": "What is USC student Emma Pedersen's goal with her social work degree?",
+    "answer": "Emma Pedersen hopes to make environmental changes with her social work degree, transitioning from small-town South Carolina to environmental activism."
+  },
+  {
+    "question": "What research is the exercise science associate professor conducting?",
+    "answer": "Funded with $35 million from the National Institutes of Health, the exercise science associate professor will be looking for patterns of weight gains and BMI increases based on behavioral, social, environmental, and biological factors."
+  },
+  {
+    "question": "What has Honors student Alex Alpert achieved in his mechanical engineering major?",
+    "answer": "Alex Alpert, a fourth-year mechanical engineering major, has turned his childhood curiosity for how machines function into a passion for building machines to solve real-world issues."
+  },
+  {
+    "question": "What is the process to start searching for job opportunities at the university?",
+    "answer": "To start searching for job opportunities at the university, use the mobile-friendly uscjobsscedu portal to explore current open positions or create job alerts based on your interests."
+  },
+  {
+    "question": "What browser should be used for applying to university job positions?",
+    "answer": "For applying to university job positions, it's recommended to use the Google Chrome web browser."
+  },
+  {
+    "question": "Where can more information about revocation be found?",
+    "answer": "More information about revocation can be found here."
+  },
+  {
+    "question": "When and where is the event happening at Russell House University Union?",
+    "answer": "The event is happening on Friday, April 12, 2024, at Russell House University Union."
+  },
+  {
+    "question": "How can someone make a donation to the university?",
+    "answer": "Someone can make a donation to the university online by giving now."
+  },
+  {
+    "question": "What is the significance of honoring someone's dedication to advancing behavioral health?",
+    "answer": "Honoring someone's dedication to advancing behavioral health supports students and rural South Carolina."
+  },
+  {
+    "question": "What is the sentiment of someone who loves working at the university?",
+    "answer": "Someone who loves working at the university gets to work with some of the brightest faculty, staff, and students from all over the world."
+  },
+  {
+    "question": "What is the purpose of creating job alerts?",
+    "answer": "Creating job alerts helps in being notified about future job opportunities based on your interests."
+  },
+  {
+    "question": "Where can one learn more about the university's academic programs?",
+    "answer": "One can learn more about the university's academic programs here."
+  },
+
+  {
+    "question": "What is the significance of the FAFSA code 003448?",
+    "answer": "The FAFSA code 003448 is used to have results sent to the University of South Carolina."
+  },
+  {
+    "question": "What benefits can employees access along with paid holidays?",
+    "answer": "Along with paid holidays, most employees can accrue sick and annual leave, and others can access leave with pay or time off for a sabbatical."
+  },
+  {
+    "question": "What are the changes introduced by the FAFSA Simplification Act of 2021?",
+    "answer": "The FAFSA Simplification Act of 2021 introduced significant changes to the 2024-25 FAFSA to improve and expand access to federal student aid."
+  },
+  {
+    "question": "What steps should be completed by April 1 regarding the FAFSA?",
+    "answer": "Students should complete their online FAFSA by visiting StudentAidgov and submit it before April 1 to be fully considered for all financial aid resources."
+  },
+  {
+    "question": "What identity verification process is required before discussing a student's account?",
+    "answer": "Before discussing a student's account, their identity or their parents' identity must be confirmed. Students should email from their University email account and have their VIP ID or USC ID available."
+  },
+  {
+    "question": "What skills can be developed through student employment at the university?",
+    "answer": "Students can build essential workplace skills like professionalism, public speaking, and time management by working for an employer that values their academic endeavors."
+  },
+  {
+    "question": "What types of coverage packages are available?",
+    "answer": "Coverage packages that fit one's life include medical, vision, dental, life, cancer, hospital confinement, auto, and home."
+  },
+  {
+    "question": "How can one access professional leadership or personal development programs at the university?",
+    "answer": "One can access professional leadership or personal development programs at the university to enhance workplace skills or quality of life."
+  },
+  {
+    "question": "What information should be provided when contacting about financial aid?",
+    "answer": "Students should email from their University email account and have their VIP ID or USC ID available. Parents must contact using the email address provided on the FAFSA and provide the student's ID, VIP, or USC ID."
+  },
+  {
+    "question": "What should students expect regarding financial aid notifications?",
+    "answer": "Students will be notified of their financial aid eligibility through their university email as soon as possible after the US Department of Education releases all pending 2024-25 FAFSAs to the university."
+  },
+  {
+    "question": "How can students access their USC Admissions Portal?",
+    "answer": "Students can access their USC Admissions Portal to find out next steps on how to enroll at USC."
+  },
+  {
+    "question": "Where can students find more information about student employment?",
+    "answer": "Students can visit Student Employment to explore a range of roles that can bolster their workplace experiences and networking opportunities while earning competitive wages."
+  },
+  {
+    "question": "What is Course Program of Study (CPoS) and its importance?",
+    "answer": "Course Program of Study (CPoS) is a process that helps students progress toward their degree. Federal regulations require that federal financial aid can only be paid for courses that are applicable to a student's degree, determined by their enrollment status as a full-time or part-time student. Enrolling in courses not required for the degree may lead to proration or cancellation of financial aid."
+  },
+  {
+    "question": "How can eligible employees plan for retirement at the University of South Carolina?",
+    "answer": "Eligible employees can opt to join the South Carolina Retirement Systems traditional pension program or the State Optional Retirement Program."
+  },
+  {
+    "question": "What resources are available for students and parents regarding bill payment and financial transactions?",
+    "answer": "Students and parents can find tutorials for various bill payment methods, create payment plans, sign up for direct deposit, set up authorized users, and conduct other transactions on Self Service Carolina."
+  },
+  {
+    "question": "How can students invest in their future while deciding on attending college?",
+    "answer": "Students can invest in a 529 Savings Plan, such as South Carolina's 529 college savings plan, the Future Scholar, to help pay for college expenses."
+  },
+  {
+    "question": "What services does the Bursar's Office provide for students and university departments?",
+    "answer": "The Bursar's Office aims to simplify paying for education for students and parents. They also conduct training and manage billing for university departments and administration."
+  },
+  {
+    "question": "What is the goal of the University of South Carolina's financial aid office?",
+    "answer": "The goal of the University of South Carolina's financial aid office is to help students evaluate their costs, find out what type of financial aid support they can provide (grants, scholarships, loans, or student employment), and guide them through the process."
+  },
+  {
+    "question": "How can one apply for job opportunities at the University of South Carolina?",
+    "answer": "To apply for job opportunities at the University of South Carolina, one can use the mobile-friendly uscjobsscedu portal to explore current openings or create job alerts based on their interests."
+  },
+  {
+    "question": "What benefits does working at the University of South Carolina offer?",
+    "answer": "Working at the University of South Carolina offers benefits ranging from paid time off to life insurance. Full-time employees can calculate the total value of the suite of benefits offered."
+  },
+  {
+    "question": "What are the contact details for the University of South Carolina's financial aid office?",
+    "answer": "The University of South Carolina's financial aid office can be contacted via email at uscfaid@scedu or by phone at 803-777-8134. Their location is 1244 Blossom St, Suite 200."
+  },
+  {
+    "question": "What should students do to initiate the process of evaluating their costs and financial aid eligibility?",
+    "answer": "Students should complete the 2023-24 FAFSA as the first step to evaluating their costs and finding out what type of financial aid support they can receive."
+  },
+
+  {
+    "question": "What is the USC Commitment initiative and its significance?",
+    "answer": "The USC Commitment initiative allows talented students across South Carolina to attend a USC campus with their tuition and fees covered if they meet certain eligibility requirements. This initiative follows an admission plan unveiled in August offering guaranteed admission to South Carolina high school students ranked in the top 10 percent of their class for USC Columbia."
+  },
+  {
+    "question": "How does the University of South Carolina promote diversity and inclusion?",
+    "answer": "The University of South Carolina strives to cultivate an inclusive environment that is open, welcoming, and supportive of individuals of all backgrounds. They recognize diversity in the workforce is essential for academic excellence and sustainability, committing to eliminating barriers created by institutional discrimination through accountability and continuous process improvement."
+  },
+  {
+    "question": "What resources are available for job seekers during the application process at the University of South Carolina?",
+    "answer": "The University of South Carolina strives to provide equal employment opportunities for all job seekers during the application process. Job seekers can contact the Talent Acquisition Office for general questions or reasonable accommodations at 803-777-3821 or email uscjobs@scedu."
+  },
+  {
+    "question": "What benefits are offered to employees at the University of South Carolina?",
+    "answer": "Employees at the University of South Carolina are offered a comprehensive package of benefits and options, enhancing their lives professionally and personally."
+  },
+  {
+    "question": "What is the role of University of South Carolina employees?",
+    "answer": "University of South Carolina employees contribute to a dynamic community of scholars, participating in teaching, sharing real-world and research expertise, supporting student life and success, and contributing to world-class research teams."
+  },
+  {
+    "question": "What are some reasons to choose the University of South Carolina as an employer?",
+    "answer": "The University of South Carolina offers a dynamic workplace with innovation, discovery, and action, competitive benefits, personal and professional development opportunities, and a setting that values diversity, equity, and inclusion."
+  },
+  {
+    "question": "What financial aid resources are available for students at the University of South Carolina?",
+    "answer": "At the University of South Carolina, 88 percent of students receive some form of financial aid support. Resources include federal and state aid, private loans, and following the Office of Student Financial Aid and Scholarships Satisfactory Academic Progress policy."
+  },
+  {
+    "question": "How does the University of South Carolina assist students with payment and financial transactions?",
+    "answer": "The University of South Carolina aims to make the payment process seamless and hassle-free for students, offering assistance with past-due payments, Health Professions Student Loan or Nursing Student Loan processes, and tuition insurance."
+  },
+  {
+    "question": "What are some of the perks of working at the University of South Carolina?",
+    "answer": "Working at the University of South Carolina offers perks such as being part of a statewide team of over 15,000 people, access to an exceptional college experience, and a supportive workplace environment."
+  },
+  {
+    "question": "How can students access answers to their questions about financial aid?",
+    "answer": "Students can watch videos about financial aid, financial wellness, and other important topics, available everyday all day."
+  },
+
+  {
+    "question": "What are the contact details for the Bursar's Office?",
+    "answer": "The Bursar's Office can be reached at 1244 Blossom Street, Suite 128, Columbia, SC 29208. Their phone number is 803-777-4233, and their email is bursar@mailboxscedu. They are open Monday to Friday from 8:30 am to 5 pm."
+  },
+  {
+    "question": "What are the eligibility criteria for veterans and dependents to receive in-state tuition and fees at SC public institutions?",
+    "answer": "According to SC Code of Laws Section 59-112-50, veterans and dependents enrolled at SC public institutions of higher education and receive education assistance under Chapter 30, Chapter 31, or Chapter 33, Title 38 of the U.S. Code are entitled to pay in-state tuition and fees without regard to the length of time the covered individual has resided in this state."
+  },
+  {
+    "question": "What services does the University Registrar's Office provide?",
+    "answer": "As part of the Office of the University Registrar, they can assist with benefits questions, applying for admission, or connect individuals to campus resources."
+  },
+  {
+    "question": "What are some resources available for military students at the University of South Carolina?",
+    "answer": "Military students can access information tailored for service members and dependents, connect with on-campus resources, learn about application requirements and exemptions, research GI Bill benefits and tuition assistance available at University of South Carolina, and receive assistance with balancing student and service life."
+  },
+  {
+    "question": "How can students estimate their education expenses and access payment transactions?",
+    "answer": "Students can learn how to estimate their education expenses based on their unique circumstances and access easy online payment transactions through the Bursar's Office."
+  },
+  {
+    "question": "What are the deadlines for tuition payment for the upcoming semesters in Summer 2024 and Fall 2024?",
+    "answer": "The tuition payment deadline for Summer 2024 is May 22, 2024, and for Fall 2024 is August 14, 2024. If bills are not paid by these deadlines, classes can be canceled."
+  },
+  {
+    "question": "What are the procedures for readmission of former students at the University of South Carolina?",
+    "answer": "Students seeking readmission should refer to the procedures for readmission of former students as stated in the Undergraduate Studies Bulletin."
+  },
+  {
+    "question": "What should students do if they have questions or concerns about alternative testing?",
+    "answer": "Students should contact the alternative testing center at sdrctest@scedu for questions or concerns."
+  },
+  {
+    "question": "What is the purpose of the Veterans and Military Services team at the University of South Carolina?",
+    "answer": "The Veterans and Military Services team helps military students navigate the unique experience of balancing student and service life, addressing questions, assisting with benefit requirements, and connecting students to campus resources exclusively for veterans and military."
+  },
+  {
+    "question": "What is the significance of the Veterans and Military Center at the University of South Carolina?",
+    "answer": "The Veterans and Military Center serves as the home for the veteran and military-affiliated student population and enhances the overall ability to support this student population throughout their life cycle as a student at South Carolina."
+  },
+
+  {
+    "question": "How does the university empower students with disabilities?",
+    "answer": "The university empowers students with disabilities by ensuring equal access to education and university life through collaboration, coordination, and consultation with faculty, staff, students, and campus partners."
+  },
+  {
+    "question": "What unique perks and discount opportunities are available for USC employees?",
+    "answer": "USC employees have access to family-friendly perks and unique discount opportunities, ranging from Gamecocks athletics tickets to tuition assistance and reimbursement."
+  },
+  {
+    "question": "What is Future Scholar and how can it benefit users?",
+    "answer": "Future Scholar is a 529 plan that helps users save for their child's future college education by offering tax advantages, investment options, and flexibility."
+  },
+  {
+    "question": "Where can supervisors find valuable resources for success?",
+    "answer": "Supervisors can find valuable resources for success in the monthly Supervisor Newsletters, which provide resources for success in their roles."
+  },
+  {
+    "question": "What opportunities for career growth does the Division of Human Resources offer?",
+    "answer": "The Division of Human Resources offers equal opportunities for advancement and career growth for employees, providing exclusive recruitment opportunities within the university through the Internal Job Board."
+  },
+  {
+    "question": "How does the university support students with medical diagnoses?",
+    "answer": "Students with documented medical diagnoses may qualify for assistance with a meal plan to support their dietary needs."
+  },
+  {
+    "question": "What steps should be taken in case of work-related accidents or injuries?",
+    "answer": "Review the procedures outlined to ensure you know what steps to take in case someone is injured while performing their job duties."
+  },
+  {
+    "question": "Where can employees access resources for a stress-free tax season?",
+    "answer": "Employees can access resources for a stress-free tax season by visiting the HR Toolbox."
+  },
+  {
+    "question": "What options are available for employees due to the IRS's increase in the contribution limit for Medical Spending Accounts?",
+    "answer": "Employees who are eligible to contribute to an MSA may make a new election for 2024, and those who elected to contribute during open enrollment may also increase their contribution if desired, but they cannot decrease the contribution elected during open enrollment."
+  },
+  {
+    "question": "How can employees contact Human Resources staff?",
+    "answer": "The best way to contact Human Resources staff is via email."
+  },
+  {
+    "question": "What benefits does the state of South Carolina offer to employees?",
+    "answer": "The state of South Carolina offers employee discount programs to save on everyday purchases and services from local and national vendors. Additionally, there are family-friendly privileges and unique discount opportunities available to help employees maintain a healthy work-life balance."
+  },
+  {
+    "question": "What resources are available for employees during tax season?",
+    "answer": "Employees can access resources such as tax preparation services through the Employee Assistance Program (EAP MYgroup), which offers a variety of work-life services."
+  },
+  {
+    "question": "How can employees enroll or increase their contribution to a Medical Spending Account?",
+    "answer": "Employees must complete a paper Notice of Election (NOE), sign it, and return it to their campus Benefits Office by December 1, 2023."
+  },
+  {
+    "question": "Where can employees find information about the Internal Job Board and who is eligible to apply?",
+    "answer": "Employees can find information about the Internal Job Board and eligibility criteria in the Internal Job Board Current Employee Guide."
+  },
+  {
+    "question": "What recognition has the University of South Carolina received according to Forbes Magazine?",
+    "answer": "The University of South Carolina is among the top 100 best employers in the US according to Forbes Magazine."
+  },
+  {
+    "question": "What enhancements have been made to the 403b Plan for USC employees?",
+    "answer": "CAPTRUST, an independent retirement plan consultant, assisted HR in identifying ways to enhance the 403b Plan relative to appropriate peer university benchmarks. Employees received a Transition Guide with detailed explanations of these enhancements."
+  },
+  {
+    "question": "What is the deadline for submitting final exam alternative testing requests?",
+    "answer": "The deadline for submitting final exam alternative testing requests is Wednesday, April 10th, 2024, before 5:00 PM."
+  },
+  {
+    "question": "Where can individuals find Tax Counseling for the Elderly (TCE) sites?",
+    "answer": "Individuals can find Tax Counseling for the Elderly (TCE) sites using the AARP Site Locator Tool or by calling 888-227-7669."
+  },
+
+  {
+    "question": "How can individuals report an emergency or contact police dispatch?",
+    "answer": "Individuals can dial 911 or call 803-777-4215, use the Rave Guardian Safety App, or go to headquarters at 1415 Henderson St."
+  },
+  {
+    "question": "What types of materials can be discovered at the mentioned location?",
+    "answer": "An amazing variety of materials can be discovered, including books, films, art, maps, music, manuscripts, and digitized collections accessible entirely online."
+  },
+  {
+    "question": "Where may alerts be sent?",
+    "answer": "Alerts may be sent to individuals' university email accounts."
+  },
+  {
+    "question": "What are the contact details for emergencies and police dispatch?",
+    "answer": "For emergencies, individuals can call 911 or police dispatch at 803-777-4215. The address for headquarters is 1415 Henderson St, and the address for 1600 Hampton St Annex is also provided."
+  },
+  {
+    "question": "What should individuals do if they have lost an item on campus?",
+    "answer": "Individuals should visit Lost Found Services in the Russell House if they have lost an item on campus."
+  },
+  {
+    "question": "Where can individuals learn more about safety services and resources on the University of South Carolina campus?",
+    "answer": "Individuals can learn more about safety services and resources on the University of South Carolina campus by visiting the provided location or resource."
+  },
+  {
+    "question": "Where can individuals find additional resources and news?",
+    "answer": "Individuals can find additional resources and news by visiting the HR Toolbox."
+  },
+  {
+    "question": "What is Future Scholar, and how does it help individuals?",
+    "answer": "Future Scholar is a 529 plan that helps individuals save for their child's future college education. It offers tax advantages, investment options, and flexibility."
+  },
+  {
+    "question": "Where can individuals go to get cash for a paper or project they've done using library resources?",
+    "answer": "Individuals can go to a specified location to get cash for a paper or project they've done using library resources."
+  },
+  {
+    "question": "What should individuals provide when making a report?",
+    "answer": "When making a report, individuals should provide key details such as the offender's age, gender, hair color, race, clothing, as well as a license number and direction for any vehicles involved."
+  },
+
+  {
+    "question": "What are the values that guide the law enforcement professionals at the University of South Carolina?",
+    "answer": "The values that guide the law enforcement professionals at the University of South Carolina are human life, integrity, excellence, and accountability."
+  },
+  {
+    "question": "Where can individuals view the Clery Annual Security Report?",
+    "answer": "Individuals can click on a provided link to view the Clery Annual Security Report."
+  },
+  {
+    "question": "What can individuals do to increase the chance of getting their stolen valuables returned to them?",
+    "answer": "Individuals can register their laptop, phone, tablet, bicycle, moped, or other valuables for an increased chance of getting them returned if stolen."
+  },
+  {
+    "question": "Where can individuals find all recent emergency alerts from the University of South Carolina?",
+    "answer": "Individuals can find all recent emergency alerts from the University of South Carolina by visiting a specified location."
+  },
+  {
+    "question": "How can individuals share their complaints, commendations, and feedback?",
+    "answer": "Individuals can share their complaints, commendations, and feedback through a provided method or link."
+  },
+  {
+    "question": "How can individuals sign up to receive Carolina Alert notifications?",
+    "answer": "Individuals can sign up to receive Carolina Alert notifications to receive the latest crime bulletins and emergency alerts."
+  },
+  {
+    "question": "What resources are available for research, teaching, and learning at the University of South Carolina?",
+    "answer": "Skilled professional staff, essential information resources and services, and world-class distinctive collections are all available to enrich research, teaching, and learning."
+  },
+  {
+    "question": "Who should register to receive Carolina Alerts?",
+    "answer": "Students, faculty, and staff should register to receive Carolina Alerts for up-to-the-moment campus safety news."
+  },
+  {
+    "question": "What opportunities does the Division of Human Resources offer for career growth?",
+    "answer": "The Division of Human Resources offers opportunities for career growth and advancement, including exclusive recruitment opportunities within the university through the Internal Job Board."
+  },
+  {
+    "question": "What do the Supervisor Newsletters provide?",
+    "answer": "The Supervisor Newsletters provide resources for success in the role of supervisor."
+  },
+
+  {
+    "question": "How can individuals sign up for USC Job Alerts?",
+    "answer": "Individuals can sign up for USC Job Alerts to be notified when jobs are advertised publicly on the USCJobs site."
+  },
+  {
+    "question": "Where can individuals learn more about accessing the internal job board?",
+    "answer": "Individuals can learn more about accessing the internal job board and who is eligible to apply by checking the Internal Job Board Current Employee Guide."
+  },
+  {
+    "question": "According to Forbes Magazine, where does the University of South Carolina rank among US employers?",
+    "answer": "According to Forbes Magazine, the University of South Carolina is among the top 100 best employers in the US."
+  },
+  {
+    "question": "Where can individuals view current job openings and learn about qualifications for employment at USCPD?",
+    "answer": "Individuals can view current job openings and learn about qualifications for employment at USCPD through a specified location."
+  },
+  {
+    "question": "Where can individuals view today's crime log and bulletins about crime-related emergencies on campus?",
+    "answer": "Individuals can view today's crime log and bulletins about crime-related emergencies on campus through a specified location."
+  },
+  {
+    "question": "What services are offered beyond collections at the University of South Carolina libraries?",
+    "answer": "Beyond collections, the University of South Carolina libraries offer services such as reserving study rooms, borrowing and renewing books, requesting Interlibrary Loan materials, and using technology."
+  },
+  {
+    "question": "What information can individuals find regarding violence, natural disasters, medical emergencies, and other threats on campus?",
+    "answer": "Individuals can find information on what to do in case of violence, natural disasters, medical emergencies, and other threats on campus through a specified location."
+  },
+  {
+    "question": "How can individuals log in to mysceduemergency?",
+    "answer": "Individuals can log in to mysceduemergency using a specified method or link."
+  },
+  {
+    "question": "How can individuals update their information on myscedu?",
+    "answer": "Individuals can update their information on myscedu by following a specified series of screens and completing all applicable fields."
+  },
+  {
+    "question": "Where can individuals submit a referral if they are concerned about someone's health, well-being, or safety?",
+    "answer": "Individuals can submit a referral if they are concerned about someone's health, well-being, or safety to the Student Care and Outreach Team through a specified location."
+  },
+
+  {
+    "question": "Where can official University of South Carolina policies related to providing a safe environment be reviewed?",
+    "answer": "Official University of South Carolina policies related to providing a safe environment can be reviewed through a specified location."
+  },
+  {
+    "question": "Where can individuals find recent emergency alerts from the University of South Carolina?",
+    "answer": "Individuals can find recent emergency alerts from the University of South Carolina through a specified location."
+  },
+  {
+    "question": "How can individuals share their complaints, commendations, and feedback?",
+    "answer": "Individuals can share their complaints, commendations, and feedback through a specified method or location."
+  },
+  {
+    "question": "Where can individuals follow Carolina Alert on social media?",
+    "answer": "Individuals can follow Carolina Alert on Facebook and Twitter through specified social media channels."
+  },
+  {
+    "question": "How can students living off-campus and their neighbors find assistance?",
+    "answer": "Students living off-campus and their neighbors can find assistance through Off-Campus Living and Neighborhood Relations. For specific concerns related to student conduct away from campus, they can use the Off-Campus Incident Report."
+  },
+  {
+    "question": "Where can individuals register to receive Carolina Alerts?",
+    "answer": "Individuals can register to receive Carolina Alerts for up-to-the-moment campus safety news through a specified location."
+  },
+  {
+    "question": "What type of situation warrants the sending of text messages through Carolina Alert?",
+    "answer": "Text messages are only sent in the event of a true emergency, indicating a situation that poses an immediate risk to life and safety, and may require individuals to change their behavior accordingly."
+  },
+  {
+    "question": "What is the purpose of the Higher Education Opportunity Act (HEOA) in relation to colleges and universities?",
+    "answer": "The Higher Education Opportunity Act (HEOA) requires colleges and universities participating in federal student financial aid programs to disclose certain information to current and prospective students and university employees."
+  },
+  {
+    "question": "Who serves as the coordinator for ADA Title II, Section 504, and Title IX at the University of South Carolina?",
+    "answer": "The Executive Assistant to the President for Equal Opportunity Programs serves as the coordinator for ADA Title II, Section 504, and Title IX at the University of South Carolina."
+  },
+  {
+    "question": "What resources are available for individuals experiencing hurtful or harmful situations on the University of South Carolina campus?",
+    "answer": "Various campus resources are available for individuals experiencing hurtful or harmful situations on the University of South Carolina campus, encouraging immediate action."
+  },
+
+  {
+    "question": "What is a Cohort Default Rate?",
+    "answer": "A Cohort Default Rate is the percentage of a school's borrowers who enter repayment on certain Federal Family Education Loan (FFEL) Program or William D. Ford Federal Direct Loan (Direct Loan) Program loans during a particular federal fiscal year (FY) and default or meet other specified conditions prior to the end of the second following fiscal year."
+  },
+  {
+    "question": "Where can individuals find information about accreditation?",
+    "answer": "Individuals can find information about accreditation through a specified location."
+  },
+  {
+    "question": "What is the address for the Columbia campus of the University of South Carolina?",
+    "answer": "The address for the Columbia campus of the University of South Carolina is provided."
+  },
+  {
+    "question": "What kind of information can individuals find under 'Admission Information'?",
+    "answer": "Individuals can find information regarding admission under 'Admission Information'."
+  },
+  {
+    "question": "What is the purpose of the Electronic Transaction Authorization Statement?",
+    "answer": "The Electronic Transaction Authorization Statement captures the individual's approval to provide financial aid information electronically."
+  },
+  {
+    "question": "What types of assistance are available from Federal, State, Local, and Institutional programs?",
+    "answer": "Various types of assistance are available from Federal, State, Local, and Institutional programs, as detailed in the provided location."
+  },
+  {
+    "question": "Where can individuals find the Code of Conduct?",
+    "answer": "Individuals can find the Code of Conduct through a specified location."
+  },
+  {
+    "question": "What can individuals contact the Bursar's Office regarding?",
+    "answer": "Individuals can contact the Bursar's Office regarding specified matters."
+  },
+  {
+    "question": "Where should individuals contact for information regarding student financial aid and scholarships?",
+    "answer": "Individuals should contact the Office of Student Financial Aid and Scholarships for information regarding student financial aid and scholarships."
+  },
+  {
+    "question": "What is the OPEID for the University of South Carolina?",
+    "answer": "The OPEID for the University of South Carolina is provided."
+  },
+
+  {
+    "question": "What is the School 3-Year Default Rate for FY 2019?",
+    "answer": "The School 3-Year Default Rate for FY 2019 is provided."
+  },
+  {
+    "question": "What is Constitution Day and Citizenship Day?",
+    "answer": "Constitution Day and Citizenship Day commemorate the signing of the United States Constitution on September 17, 1787. The day serves to promote a better understanding of the Constitution and citizenship."
+  },
+  {
+    "question": "Where can individuals find information about student diversity?",
+    "answer": "Information about student diversity can be found through specified sources."
+  },
+  {
+    "question": "Where can individuals find information about student life?",
+    "answer": "Information about student life can be found through specified sources."
+  },
+  {
+    "question": "What is the purpose of the Family Education Rights and Privacy Act (FERPA)?",
+    "answer": "The Family Education Rights and Privacy Act (FERPA) requires educational institutions to provide students access to their educational records, correct inaccurate information, and limit the release of information to third parties."
+  },
+  {
+    "question": "What is the purpose of the Net Price Calculator?",
+    "answer": "The Net Price Calculator allows prospective students to enter information about themselves to find out what students like them paid to attend the institution in a previous year after taking grants and scholarship aid into account."
+  },
+  {
+    "question": "What does the Palmetto College Federal Direct Loan Cohort Default Rate measure?",
+    "answer": "The Palmetto College Federal Direct Loan Cohort Default Rate measures certain loan default rates for each campus of the University of South Carolina for FY 2020."
+  },
+  {
+    "question": "What information is provided in the USC Lancaster Academic Bulletin?",
+    "answer": "The USC Lancaster Academic Bulletin contains specified information."
+  },
+  {
+    "question": "Where can individuals find information about disability services at USC Lancaster?",
+    "answer": "Information about disability services at USC Lancaster can be found through specified sources."
+  },
+  {
+    "question": "Where can individuals find information about the drug and alcohol abuse prevention program at USC Lancaster?",
+    "answer": "Information about the drug and alcohol abuse prevention program at USC Lancaster can be found through specified sources."
+  },
+
+  {
+    "question": "What is the address of the University of South Carolina?",
+    "answer": "The address of the University of South Carolina is provided."
+  },
+  {
+    "question": "What is a Cohort Default Rate?",
+    "answer": "A Cohort Default Rate measures the percentage of a school's borrowers who enter repayment on certain federal loans during a particular fiscal year and default or meet other specified conditions."
+  },
+  {
+    "question": "What is the purpose of digital accessibility at the University of South Carolina?",
+    "answer": "The University of South Carolina is committed to providing accessible digital experiences to allow people with disabilities to access and use web content, course materials, and all digital assets."
+  },
+  {
+    "question": "What guidelines does USC follow to ensure digital accessibility?",
+    "answer": "USC follows the Web Content Accessibility Guidelines (WCAG) Level AA standard to ensure equal access to digital content for individuals with various disabilities."
+  },
+  {
+    "question": "What should someone do if they have been a victim of discrimination or harassment at USC?",
+    "answer": "Victims or survivors of discrimination or harassment at the University of South Carolina can report it to connect with staff to discuss options, although reporting does not automatically initiate an investigation or notify the alleged person."
+  },
+  {
+    "question": "What page did the University create to provide information about authorization and licensure status?",
+    "answer": "The University created a page to provide information about authorization and licensure status, including state authorization in individual states, for current and prospective students."
+  },
+  {
+    "question": "What is Colleen Etman advocating for?",
+    "answer": "Colleen Etman is advocating for mental health awareness for students in higher education."
+  },
+  {
+    "question": "What is the purpose of the Institutional Code of Conduct for Education Loans?",
+    "answer": "The purpose of the Institutional Code of Conduct for Education Loans is provided."
+  },
+
+  {
+    "question": "What should be done for technical issues?",
+    "answer": "For technical issues, please visit the DoIT Service Desk for the quickest response. Employees should use the Human Resources directory. Donors with questions about making gifts to the university should contact Giving."
+  },
+  {
+    "question": "What resources are available to learn about digital accessibility?",
+    "answer": "Resources are available to learn about digital accessibility and how to incorporate accessibility best practices into daily work."
+  },
+  {
+    "question": "What is the purpose of the Office of Civil Rights Title IX?",
+    "answer": "The Office of Civil Rights Title IX aims to create an environment free from discrimination, harassment, and sexual misconduct, where all individuals are treated with dignity and respect, and have equal opportunities to learn and work at the university."
+  },
+  {
+    "question": "What is the main message the Office of Civil Rights Title IX wants people to get?",
+    "answer": "The main message the Office of Civil Rights Title IX wants people to understand is that everyone should be treated well by each other, regardless of their identity."
+  },
+
+  {
+    "question": "How can someone contact Undergraduate Admissions?",
+    "answer": "Someone can contact Undergraduate Admissions by phone at 803-777-7700 or toll-free at 800-868-5872. They can also email admissions-ugrad@scedu."
+  },
+  {
+    "question": "How can someone contact the Visitor Center?",
+    "answer": "Someone can contact the Visitor Center by phone at 803-777-0169 or toll-free at 800-922-9755. They can also email visitor@mailboxscedu."
+  },
+  {
+    "question": "What is the purpose of the feedback form provided?",
+    "answer": "The feedback form is provided to welcome and encourage all feedback. It allows individuals to contact the university with their questions or concerns."
+  },
+  {
+    "question": "What should someone do if they want to request an excused absence or get help with another concern?",
+    "answer": "They should fill out the form provided to request an excused absence or get help with another concern. The university will get back to them as soon as possible."
+  },
+  {
+    "question": "What does the university offer in terms of academic support?",
+    "answer": "The university offers various academic support services, including first-year seminars (University 101), academic integrity programs, conduct adjudication, peer tutoring sessions, and success consultant meetings."
+  },
+  {
+    "question": "How can someone contact Undergraduate Admissions?",
+    "answer": "Someone can contact Undergraduate Admissions by phone at 803-777-7700 or toll-free at 800-868-5872. They can also email admissions-ugrad@scedu."
+  },
+  {
+    "question": "How can someone contact the Visitor Center?",
+    "answer": "Someone can contact the Visitor Center by phone at 803-777-0169 or toll-free at 800-922-9755. They can also email visitor@mailboxscedu."
+  },
+  {
+    "question": "What is the purpose of the feedback form provided?",
+    "answer": "The feedback form is provided to welcome and encourage all feedback. It allows individuals to contact the university with their questions or concerns."
+  },
+  {
+    "question": "What should someone do if they want to request an excused absence or get help with another concern?",
+    "answer": "They should fill out the form provided to request an excused absence or get help with another concern. The university will get back to them as soon as possible."
+  },
+  {
+    "question": "What does the university offer in terms of academic support?",
+    "answer": "The university offers various academic support services, including first-year seminars (University 101), academic integrity programs, conduct adjudication, peer tutoring sessions, and success consultant meetings."
+  },
+
+  {
+    "question": "How can someone contact Undergraduate Admissions?",
+    "answer": "Someone can contact Undergraduate Admissions by phone at 803-777-7700 or toll-free at 800-868-5872. They can also email admissions-ugrad@scedu."
+  },
+  {
+    "question": "How can someone contact the Visitor Center?",
+    "answer": "Someone can contact the Visitor Center by phone at 803-777-0169 or toll-free at 800-922-9755. They can also email visitor@mailboxscedu."
+  },
+  {
+    "question": "What is the purpose of the feedback form provided?",
+    "answer": "The feedback form is provided to welcome and encourage all feedback. It allows individuals to contact the university with their questions or concerns."
+  },
+  {
+    "question": "What should someone do if they want to request an excused absence or get help with another concern?",
+    "answer": "They should fill out the form provided to request an excused absence or get help with another concern. The university will get back to them as soon as possible."
+  },
+  {
+    "question": "What does the university offer in terms of academic support?",
+    "answer": "The university offers various academic support services, including first-year seminars (University 101), academic integrity programs, conduct adjudication, peer tutoring sessions, and success consultant meetings."
+  },
+
+  {
+    "question": "How can someone connect with the university for guidance and assistance?",
+    "answer": "Someone can connect with the university for guidance and assistance by reaching out to the provided contact information or by visiting university resources and programs."
+  },
+  {
+    "question": "How can someone contact Financial Aid and Scholarships?",
+    "answer": "Someone can contact Financial Aid and Scholarships by phone at 803-777-8134 or by email at uscfaid@scedu."
+  },
+  {
+    "question": "Where can someone find information on deciphering registration error codes?",
+    "answer": "Someone can consult the Common Holds and Restrictions guide to decipher registration error codes that may appear when registering for courses."
+  },
+  {
+    "question": "How can someone use Microsoft Teams for virtual academic advising appointments?",
+    "answer": "Someone can learn how to use Microsoft Teams for virtual academic advising appointments by following the provided guide or instructions."
+  },
+  {
+    "question": "What is the DegreeWorks Planner?",
+    "answer": "The DegreeWorks Planner is an introduction to a tool or platform that helps students plan their academic progress and track their degree requirements."
+  },
+  {
+    "question": "What initiative has James Davis Hayman undertaken?",
+    "answer": "James Davis Hayman, an international business and finance major from Johnson City, Tennessee, has created a platform to advocate for the disabled community. He hopes to increase representation, understanding, and change through his lectures and his USC study abroad blog from Paris."
+  },
+  {
+    "question": "Where is McKissick Museum located?",
+    "answer": "McKissick Museum is located at [insert address or coordinates if available]."
+  },
+  {
+    "question": "Where is McMaster Gallery located?",
+    "answer": "McMaster Gallery is located at [insert address or coordinates if available]."
+  },
+  {
+    "question": "Where can someone find resources to help with course registration or advising appointments?",
+    "answer": "Someone can find resources to help with course registration or advising appointments by checking out the provided help videos and student guides."
+  },
+  {
+    "question": "How can someone schedule an appointment with their advisor?",
+    "answer": "Someone can see their advisor's availability and schedule their appointment online."
+  },
+
+  {
+    "question": "What resources does the Division of Student Affairs and Academic Support provide to students?",
+    "answer": "The Division of Student Affairs and Academic Support designs and provides comprehensive resources to support students' academic achievement. Their outreach and intervention efforts strive to ensure that no student falls through the cracks."
+  },
+  {
+    "question": "How can someone contact Student Advocacy?",
+    "answer": "Someone can contact Student Advocacy by phone at 803-777-4872 or via email at studentadvocacy@scedu."
+  },
+  {
+    "question": "How can someone contact the Visitor Center?",
+    "answer": "Someone can contact the Visitor Center by phone at 803-777-0169 or toll-free at 800-922-9755. They can also email at visitor@mailboxscedu."
+  },
+  {
+    "question": "Where is the office located at Russell House West Wing?",
+    "answer": "The office is located at Russell House West Wing, Suite 115, 1400 Greene Street, Columbia, SC 29208."
+  },
+  {
+    "question": "How can someone contact Undergraduate Admissions?",
+    "answer": "Someone can contact Undergraduate Admissions by phone at 803-777-7700 or toll-free at 800-868-5872. They can also email at admissions-ugrad@scedu."
+  },
+  {
+    "question": "What is the role of academic advisors at the University of South Carolina?",
+    "answer": "Academic advisors at the University of South Carolina help students define and achieve their academic goals, whether they are incoming freshmen, seniors about to graduate, or new transfer students."
+  },
+  {
+    "question": "How can someone access information on course delivery methods?",
+    "answer": "Someone can view the Instructional Methods resource for detailed information on course delivery methods."
+  },
+  {
+    "question": "Where can someone find information on academic programs and regulations?",
+    "answer": "Someone can view the Undergraduate Academic Bulletin for information regarding academic programs and regulations."
+  },
+  {
+    "question": "What are some of the common questions addressed in the videos provided?",
+    "answer": "The videos provided address common questions surrounding course registration, virtual appointment scheduling, navigating academic programs, and regulations."
+  },
+  {
+    "question": "How will the information provided by students be used by their advisor and the University Advising Center?",
+    "answer": "The information provided by students will be used by their advisor and the University Advising Center to better support them and other students on campus."
+  },
+
+  {
+    "question": "What are the current hours of operation for Exploratory Advisors?",
+    "answer": "Exploratory Advisors are available for in-person drop-in advising sessions Monday-Thursday from 1 to 4 pm."
+  },
+  {
+    "question": "How can someone contact Exploratory Advisors?",
+    "answer": "Someone can contact Exploratory Advisors by phone at 803-777-9850. The office is located at 901 Sumter Street, Suite 209, Columbia, SC 29208."
+  },
+  {
+    "question": "What are 'Areas of Interest'?",
+    "answer": "'Areas of Interest' are groups of individual majors that fall under a larger academic umbrella. They bring together degree programs that appeal to common interests, use and teach similar skill sets, and lead to related career paths."
+  },
+  {
+    "question": "How can advisors and students access common forms?",
+    "answer": "Both advisors and students can access several common forms in Advisor Forms and Resources."
+  },
+  {
+    "question": "What is the purpose of GARNET (Graduation and Retention Network)?",
+    "answer": "GARNET supports a variety of courses and programs that help students get ahead, catch up, or stay on track for degree completion."
+  },
+  {
+    "question": "How can someone learn more about academic programs offered at USC?",
+    "answer": "Someone can learn more about academic programs offered at USC and their requirements in the Undergraduate Academic Bulletin."
+  },
+
+  {
+    "question": "What is required before changing majors in several colleges/schools?",
+    "answer": "Several colleges/schools require attending a New Major Information Session before changing majors. Interested individuals can follow the steps in a provided video to schedule a New Major Information Session in the Navigate system."
+  },
+  {
+    "question": "What services are available for Spring 2024 at the SSC (Student Success Center)?",
+    "answer": "For Spring 2024, SSC Services are live, and there is a list of supported courses available. Students are encouraged to visit one of the many campus locations."
+  },
+  {
+    "question": "What support is offered for transfer sophomore students?",
+    "answer": "Support is available for transfer sophomore students."
+  },
+  {
+    "question": "What type of assistance is provided for creating an accelerated study plan or catching up on course credits?",
+    "answer": "Assistance is available for creating an accelerated study plan to graduate early or catching up on course credits to graduate on time with winter and summer sessions."
+  },
+  {
+    "question": "Where can someone find information about changing majors within each of the 11 colleges/schools on the Columbia campus?",
+    "answer": "The Change of Major Directory provides program information, GPA requirements, and necessary steps for changing majors into each of the 11 colleges/schools on the Columbia campus. Interested individuals can view the Change of Major Requirements Table."
+  },
+  {
+    "question": "What resources are provided in the videos available?",
+    "answer": "The videos answer common questions surrounding course registration and virtual appointment scheduling. They also provide helpful resources for navigating academic programs and regulations. Individuals can use keywords to search for a video that addresses their question."
+  },
+  {
+    "question": "What academic support services are offered on campus?",
+    "answer": "A comprehensive range of academic support services, including tutoring, supplemental instruction, writing support, and study skills, are available on campus. All programs and initiatives are free to students at the University of South Carolina."
+  },
+  {
+    "question": "How many academic colleges/schools and majors does USC have?",
+    "answer": "USC has 11 Academic Colleges/Schools and over 90 majors. Interested individuals can view the Programs A-Z page for an overview and official requirements."
+  },
+  {
+    "question": "What is the purpose of the Undergraduate Interdisciplinary Certificate programs?",
+    "answer": "Undergraduate students can complete one of the available Undergraduate Interdisciplinary Certificate programs in just a few weeks, elevating their skills and earning potential. They can express their interest by completing the Certificate Interest Form."
+  },
+  {
+    "question": "Where can someone find detailed information on course delivery methods?",
+    "answer": "Detailed information on course delivery methods can be found in the Instructional Methods resource."
+  },
+  {
+    "question": "Where can someone find information about academic programs and regulations?",
+    "answer": "Information regarding academic programs and regulations can be found in the Undergraduate Academic Bulletin."
+  },
+  {
+    "question": "What resources are available for viewing academic records?",
+    "answer": "Resources are available for viewing academic records, including notes, advised courses, holds and registration status, degree audit, and unofficial transcript."
+  },
+  {
+    "question": "What is the role of the academic advisor at the University of South Carolina?",
+    "answer": "Academic advisors at the University of South Carolina help students define and achieve their academic goals, regardless of their academic level or status."
+  },
+  {
+    "question": "How does the University Advising Center use information provided by students?",
+    "answer": "The University Advising Center uses information provided by students to better support them and other students on campus."
+  },
+  {
+    "question": "What was the speaker's experience with taking summer classes?",
+    "answer": "The speaker found taking summer classes to be a huge help with graduating early. They took four classes every summer, which they acknowledge is a lot, but they found summer classes to be less stressful in terms of pacing. All of their courses were offered online, providing a flexible experience. They also emphasized the importance of allowing oneself a break between sessions to avoid burnout and recommended attending campus events to remind oneself why they chose their school, major, and path."
+  },
+  {
+    "question": "What assistance can students receive regarding creating an accelerated study plan or catching up on course credits?",
+    "answer": "Students can receive assistance in creating an accelerated study plan to graduate early or catching up on course credits to graduate on time with winter and summer sessions."
+  },
+  {
+    "question": "What information does the Change of Major Directory provide?",
+    "answer": "The Change of Major Directory provides program information, GPA requirements, and necessary steps for changing majors into each of the 11 colleges/schools on the Columbia campus. Interested individuals can view the Change of Major Requirements Table."
+  },
+  {
+    "question": "What resources are available in the provided videos?",
+    "answer": "The provided videos answer common questions surrounding course registration and virtual appointment scheduling. They also offer helpful resources for navigating academic programs and regulations. Individuals can use keywords to search for a video that addresses their question."
+  },
+  {
+    "question": "What academic support services are available on campus?",
+    "answer": "A comprehensive range of academic support services, including tutoring, supplemental instruction, writing support, and study skills, are available on campus. All programs and initiatives are free to students at the University of South Carolina."
+  },
+  {
+    "question": "How many Academic Colleges/Schools and majors does USC have?",
+    "answer": "USC has 11 Academic Colleges/Schools and over 90 majors. Interested individuals can view the Programs A-Z page for an overview and official requirements."
+  },
+  {
+    "question": "What can undergraduate students complete in just a few weeks to elevate their skills and earning potential?",
+    "answer": "Undergraduate students can complete one of the available Undergraduate Interdisciplinary Certificate programs in just a few weeks to elevate their skills and earning potential. They can express their interest by completing the Certificate Interest Form."
+  },
+  {
+    "question": "Where can individuals find detailed information on course delivery methods?",
+    "answer": "Detailed information on course delivery methods can be found in the Instructional Methods resource."
+  },
+  {
+    "question": "Where can individuals find information regarding academic programs and regulations?",
+    "answer": "Information regarding academic programs and regulations can be found in the Undergraduate Academic Bulletin."
+  },
+  {
+    "question": "What academic records can individuals view?",
+    "answer": "Individuals can view academic records such as notes, advised courses, holds and registration status, degree audit, and unofficial transcript."
+  },
+  {
+    "question": "What is the role of the academic advisor at the University of South Carolina?",
+    "answer": "Academic advisors at the University of South Carolina help students define and achieve their academic goals, regardless of their academic level or status."
+  },
+  {
+    "question": "How will the information provided by students be used by the advisor and the University Advising Center?",
+    "answer": "The advisor and the University Advising Center will use the information provided by students to better support them and other students on campus."
+  },
+
+  {
+    "question": "What is Sydney Luchyn's major and minor?",
+    "answer": "Sydney Luchyn is a Biology major with a Spanish/Psychology minor."
+  },
+  {
+    "question": "How does USC help students improve their mental health?",
+    "answer": "USC provides an array of online, in-person, and self-care resources to help students improve their mental health. These resources assist in identifying and managing contributing factors such as sleep, substance use, academic concerns, stress, grief, and loss."
+  },
+  {
+    "question": "What programs and services does Campus Recreation provide?",
+    "answer": "Campus Recreation provides programs and services promoting fitness and quality of life, including adventure and outdoor recreation, aquatics, club sports, fitness, and intramurals."
+  },
+  {
+    "question": "What services does Healthy Campus Initiatives offer?",
+    "answer": "Healthy Campus Initiatives offers programs and services specializing in stress management, sexual health, physical activity, balanced eating, and disease prevention. These include wellness coaching, nutrition counseling, presentations, workshops, and classes tailored to campus needs."
+  },
+  {
+    "question": "What strategies does the coalition use to reduce high-risk drinking and substance use?",
+    "answer": "The coalition employs environmental prevention strategies involving USC students and employees, local residents, law enforcement officers, business owners, and others to reduce the negative consequences of high-risk drinking and substance use."
+  },
+  {
+    "question": "How does USC help students make smart choices regarding alcohol and substances?",
+    "answer": "USC uses online education modules, individual interventions, event registrations, and group education to assist students in making smart choices regarding alcohol and other substances."
+  },
+  {
+    "question": "What mental health services does USC offer to students?",
+    "answer": "USC offers professional counseling, social work, and psychiatric services to meet students' mental health needs, including individual and group support, medication monitoring, and crisis intervention."
+  },
+  {
+    "question": "What services does Student Health provide?",
+    "answer": "Student Health aims to be students' medical home by providing coordinated services including general medicine, women's care, pharmacy and lab services, and physical therapy."
+  },
+  {
+    "question": "What is the mission of The CommUnity Shop?",
+    "answer": "The CommUnity Shop's mission is to increase accessibility and provide holistic support to individuals experiencing basic needs insecurities. Students, faculty, and staff can access free food, clothing, and supplies with a valid CarolinaCard."
+  },
+  {
+    "question": "What is the role of the Student Care and Outreach Team?",
+    "answer": "The Student Care and Outreach Team, comprising members from various departments, works collaboratively to help keep the campus safe by addressing behavior that could cause harm to students or others."
+  },
+  {
+    "question": "What resources do trained advocates offer?",
+    "answer": "Trained advocates offer resources and support to survivors of interpersonal violence and teach members of the Carolina community how to be active bystanders. Sexual Assault and Violence Intervention Prevention is a confidential resource."
+  },
+  {
+    "question": "How did the South Carolina Internship Program impact the speaker's internship?",
+    "answer": "The South Carolina Internship Program had a tremendous impact on the speaker's internship. Although unpaid, the speaker found the experience invaluable for enhancing their future career in medicine."
+  },
+  {
+    "question": "What is the objective of the Division of Student Affairs and Academic Support?",
+    "answer": "The Division of Student Affairs and Academic Support aims to develop and offer programs, resources, and services that encourage healthy behaviors and promote a lifetime of living well, fostering a safe and healthy campus environment."
+  },
+  {
+    "question": "What items can individuals access at The CommUnity Shop?",
+    "answer": "Individuals with a valid CarolinaCard can shop for items using a 40-point monthly budget. Most items are valued at one point, and clothing doesn't count toward the budget."
+  },
+  {
+    "question": "What are the hours of operation for the Career Studio?",
+    "answer": "The Career Studio operates Monday to Friday from 9 AM to 4:30 PM for virtual or in-person appointments, with extended virtual support on Tuesdays to Thursdays from 5 PM to 7 PM."
+  },
+  {
+    "question": "What model does the Career Studio use to provide support?",
+    "answer": "The Career Studio provides support through a peer-to-peer model."
+  },
+  {
+    "question": "Where is the Carolina Coliseum located?",
+    "answer": "The Carolina Coliseum is located at Suite 4000, 701 Assembly Street, Columbia, SC 29201."
+  },
+  {
+    "question": "Who is encouraged to share their experiences with the USC Career Center?",
+    "answer": "Students or employers impacted by a great experience with the USC Career Center are encouraged to share their stories."
+  },
+  {
+    "question": "What are the hours of operation for Campus Recreation?",
+    "answer": "Campus Recreation's current hours of operation are Monday to Friday from 8 AM to 6 PM."
+  },
+  {
+    "question": "What assistance does the Student Care and Outreach Team provide?",
+    "answer": "The Student Care and Outreach Team provides interdisciplinary assistance to address behavior that could cause harm to students or others, collaborating with various departments to maintain campus safety."
+  },
+
+  {
+    "question": "Are most services offered to current students also available to USC alumni?",
+    "answer": "Yes, most services offered to current students are also available to USC alumni. Whether alumni are in the early stages of their careers or are undergoing a career change, USC can help them reach the next level of success."
+  },
+  {
+    "question": "What should organizations and large groups do if they want to donate to the Unity Shop?",
+    "answer": "Organizations and large groups should complete the Unity Shop donations form to ensure staff is prepared to accommodate their donations."
+  },
+  {
+    "question": "What is the purpose of the Unity Pal program?",
+    "answer": "The Unity Pal program allows students to apply to offer help with checkout, stocking, community outreach, and more on a weekly basis. Student organizations can also sign up as a group to assist on Fridays. Academic departments, student organizations, community members, and others are welcome to host donation drives throughout the year."
+  },
+  {
+    "question": "What are the requirements for making reservations for certain services?",
+    "answer": "Reservations are required through IMLeagues.com for certain services when they are offered."
+  },
+  {
+    "question": "Where can individuals find updates on the services and offerings of the SSC?",
+    "answer": "Individuals can find updates on the services and offerings of the SSC by checking the Hours, Schedules, or Memberships Services."
+  },
+  {
+    "question": "What is the purpose of the Unity Shop?",
+    "answer": "The mission of the Unity Shop is to increase accessibility and provide holistic support to individuals experiencing basic needs insecurities. It offers free food, clothing, and supplies to USC students, faculty, and staff because meeting basic needs is crucial for success."
+  },
+  {
+    "question": "What support does the USC Career Center offer to individuals at different stages of their career development?",
+    "answer": "The USC Career Center is dedicated to supporting individuals' needs at all stages of the process, whether they are still making decisions about their future direction, looking for hands-on experiences, or are ready for the next steps that will prepare them to live out their career goals."
+  },
+
+  {
+    "question": "What is the cost of the academic support services offered on campus?",
+    "answer": "All of the programs and initiatives offered by the academic support services on campus are free to students at the University of South Carolina."
+  },
+  {
+    "question": "What makes it easy to achieve hiring goals according to the statement?",
+    "answer": "The exceptional quality of the students and the top rankings of many academic programs, along with the recruiting tools and partner support, make it easy to achieve hiring goals."
+  },
+  {
+    "question": "What is the mission of the organization according to the statement?",
+    "answer": "The mission is to educate and empower students and alumni in their development of lifelong career management skills, build mutually-beneficial networking relationships between job seekers and employers, and serve as a planning resource for university faculty."
+  },
+  {
+    "question": "What invitation is extended to the USC family in the statement?",
+    "answer": "The USC family is invited to register their Little Gamecocks for summer swim lessons."
+  },
+  {
+    "question": "How can individuals schedule appointments with the organization?",
+    "answer": "Individuals can schedule in-person or virtual appointments with the organization on Handshake."
+  },
+  {
+    "question": "What kind of presentation opportunities are offered by the organization?",
+    "answer": "The organization offers opportunities to present valuable career management information to classes either by scheduling a visit or by providing tailor-made presentations at the class's location."
+  },
+  {
+    "question": "What is emphasized in the statement 'With the right resources and relationships there is no end to what we can achieve'?",
+    "answer": "The statement emphasizes the importance of having the right resources and relationships to achieve unlimited success."
+  },
+  {
+    "question": "What does the contribution mentioned in the statement support?",
+    "answer": "The contribution provides invaluable support in meeting operational needs and ensuring well-stocked shelves."
+  },
+
+  {
+    "question": "How can individuals speak to a counselor anytime?",
+    "answer": "Individuals can call 833-664-2854 to speak to a counselor anytime or find online self-help at their convenience."
+  },
+  {
+    "question": "What assistance is available from Counseling and Psychiatry staff?",
+    "answer": "Counseling and Psychiatry staff are available to help when individuals need someone to talk to."
+  },
+  {
+    "question": "What action should be taken if someone is concerned about another person's health, well-being, or safety?",
+    "answer": "If someone is ever concerned about another person's health, well-being, or safety, they should submit a referral to one of the university's many resources."
+  },
+  {
+    "question": "What should individuals learn about to protect themselves and others?",
+    "answer": "Individuals should learn about vehicle, moped, or scooter safety, as well as pedestrian safety, to protect themselves and others."
+  },
+  {
+    "question": "What is the benefit of learning about mental health issues on campus?",
+    "answer": "Learning from mental health professionals and from each other can help individuals become more active in mental health issues on campus."
+  },
+  {
+    "question": "What practice should individuals learn to decrease stress and regulate emotions?",
+    "answer": "Individuals should learn the practice of mindfulness to decrease stress, regulate emotions, and reduce anxiety and depression."
+  },
+  {
+    "question": "What should individuals recognize and understand regarding potential suicide?",
+    "answer": "Individuals should recognize the warning signs of potential suicide and understand the effects on others after a suicide. They can sign up for training to learn more."
+  },
+  {
+    "question": "What precaution should individuals take when meeting people?",
+    "answer": "Individuals should always take precautions when meeting people, even though technology makes it easier than ever."
+  },
+  {
+    "question": "What should individuals do to protect their belongings when leaving town?",
+    "answer": "When heading out of town for a weekend or longer, individuals should protect their belongings as much as possible."
+  },
+  {
+    "question": "What is the contact information for 24-hour mental health support?",
+    "answer": "For 24-hour mental health support, individuals can call 833-664-2854."
+  },
+  {
+    "question": "How can individuals receive urgent notifications from USCPD?",
+    "answer": "Individuals can receive urgent notifications from USCPD on their phone and in their email through Carolina Alert."
+  },
+
+  {
+    "question": "How can individuals see all victim-related crimes in the area?",
+    "answer": "Individuals can view all victim-related crimes in the area through the Crime Map."
+  },
+  {
+    "question": "Where can individuals find local online safety tools and services?",
+    "answer": "Individuals can find local online safety tools and services by researching personal safety tips or learning about safety presentations and workshops."
+  },
+  {
+    "question": "How can individuals find the location of specific places?",
+    "answer": "Individuals can find the location of specific places by searching for them on the map."
+  },
+  {
+    "question": "What should individuals do if they want more information?",
+    "answer": "If individuals want more information, they should use the form to contact the relevant department."
+  },
+  {
+    "question": "How can individuals identify call boxes?",
+    "answer": "Individuals can identify call boxes by looking for the boxes' bright blue lights. They should note the location of call boxes in the areas they frequent on campus."
+  },
+  {
+    "question": "Where is the Russell House located?",
+    "answer": "The Russell House is located on Greene Street in the middle section, near Space 09 on the patio."
+  },
+  {
+    "question": "What are the operating hours of the services provided?",
+    "answer": "The operating hours are Monday to Friday from 8 am to 5 pm. They are closed on holidays and weekends."
+  },
+  {
+    "question": "What should individuals do in case of an emergency?",
+    "answer": "In case of an emergency, individuals should push the red button on an emergency call box to immediately connect with a USCPD dispatcher."
+  },
+  {
+    "question": "How can individuals submit a comment to Campus Recreation?",
+    "answer": "Individuals can submit a comment to Campus Recreation through the provided contact information."
+  },
+  {
+    "question": "Where can individuals find more information about events?",
+    "answer": "Individuals can use the program calendar to find more information about events."
+  },
+
+  {
+    "question": "How can USC students participate in community service?",
+    "answer": "USC students can participate in community service through more than 40 service-learning courses, various leadership education programs, and involvement in student organizations."
+  },
+  {
+    "question": "What opportunities are available for USC students to help those in need?",
+    "answer": "USC students can find a multitude of ways to help those in need, both on-campus and in the greater community."
+  },
+  {
+    "question": "What values guide Greek organizations at USC?",
+    "answer": "Greek organizations at USC are guided by the values of scholarship, leadership, service, and friendship."
+  },
+  {
+    "question": "How can USC students get involved in advocacy projects?",
+    "answer": "USC students can get involved in advocacy projects related to local food, alternative transportation, recycling, and other environmental issues."
+  },
+  {
+    "question": "What opportunities are available for leadership development at USC?",
+    "answer": "Starting as freshmen, students can represent their peers in various positions that cultivate leadership skills, community involvement, and civic responsibility. Additionally, there are leadership education programs, skill-builder workshops, and professional development programs."
+  },
+  {
+    "question": "What are some media opportunities available for USC students?",
+    "answer": "USC students have opportunities to gain hands-on experience in print, broadcast, and online media through outlets like The Daily Gamecock newspaper, Garnet Black magazine, SGTV, and WUSC-FM."
+  },
+
+  {
+    "question": "Where can students and faculty/staff members talk confidentially to a trained interpersonal violence advocate?",
+    "answer": "Students and faculty/staff members can talk confidentially to a trained interpersonal violence advocate at Sexual Assault and Violence Intervention Prevention (SAVIP), located in the Thomson Building behind the Russell House and next to the Center for Health and Well-Being. They can call 803-777-8248 at any time, 24 hours a day, 7 days a week."
+  },
+  {
+    "question": "What campus resources are available for addressing interpersonal violence?",
+    "answer": "The University of South Carolina offers resources to address interpersonal violence, including Sexual Assault and Violence Intervention Prevention (SAVIP), Safe Zone Program, and local and national resources."
+  },
+  {
+    "question": "What events or programs promote diversity and inclusion at USC?",
+    "answer": "Events and programs promoting diversity and inclusion at USC include Diversity Dialogues, Diversity Retreat, Faculty and Staff Development, and the OMSA Peer Educators program."
+  },
+  {
+    "question": "What should individuals do in case of an emergency regarding interpersonal violence?",
+    "answer": "In case of an emergency regarding interpersonal violence, individuals should call 911. They may also elect to call USC Police at 803-777-4215 for aid from law enforcement."
+  },
+
+  {
+    "question": "What should individuals do when operating an emergency call box?",
+    "answer": "Individuals should push the red button on an emergency call box. They will immediately be connected with a USCPD dispatcher. Even if they are unable to communicate, the dispatcher will know their exact location. If they are being chased and cannot stop, they should press the call boxes as they pass, and police officers will respond to the area."
+  },
+  {
+    "question": "What are the office hours for the SAVIP office?",
+    "answer": "The SAVIP office hours are Monday-Friday 7:30 am - 7:30 pm, located in Room B104."
+  },
+  {
+    "question": "What is the purpose of the Title IX Task Force?",
+    "answer": "The Title IX Task Force conducted a comprehensive review of the campus and community systems related to acts or threats of sexual harassment and interpersonal violence. It aims to implement recommendations to address these issues."
+  },
+  {
+    "question": "What resources are available to survivors of interpersonal violence at the university?",
+    "answer": "The university offers free, accessible, inclusive, and confidential support to survivors of interpersonal violence. Additionally, it educates members of the Carolina community on how to prevent and respond to interpersonal violence."
+  },
+
+  {
+    "question": "What is the process for managing payroll procedures for student workers?",
+    "answer": "Employers can learn how to effectively manage payroll procedures for student workers, including how to submit timesheets and properly calculate the right pay rate."
+  },
+  {
+    "question": "How can one inquire about first-generation initiatives?",
+    "answer": "To inquire about first-generation initiatives, individuals can fill out the interest form. Any questions can be sent to firstgen@scedu."
+  },
+  {
+    "question": "What is the procedure for obtaining a payroll form for off-campus work-study jobs?",
+    "answer": "For off-campus work-study jobs, individuals must come to the office and request their payroll form. During the visit, they should identify themselves as off-campus work-study employees."
+  },
+  {
+    "question": "What is required for on-campus work-study jobs?",
+    "answer": "For on-campus work-study jobs, the employer must complete a hire payroll form so the employee does not have to obtain a payroll form from the office."
+  },
+
+  {
+    "question": "What resources are available?",
+    "answer": "Resources available include readings, social media, toolbox, staff information, and a calendar."
+  },
+  {
+    "question": "What are the hours for Room B104?",
+    "answer": "Room B104 is open Monday to Friday from 7:30 am to 7:30 pm."
+  },
+  {
+    "question": "Where is the location of Russell House West Wing 034?",
+    "answer": "Russell House West Wing 034 is located behind Panera and down the stairs."
+  },
+  {
+    "question": "What opportunities are available for students awarded work-study?",
+    "answer": "Students awarded work-study have opportunities to work in community-based programs and agencies that provide much-needed services to individuals and families within the Columbia area."
+  },
+  {
+    "question": "What is the purpose of the Multicultural Assistance Peer Program (MAPP)?",
+    "answer": "The Multicultural Assistance Peer Program (MAPP) is designed to assist first-year multicultural students in their transition to the University of South Carolina."
+  },
+  {
+    "question": "What is the role of the Office of Multicultural Student Affairs?",
+    "answer": "The Office of Multicultural Student Affairs strives to educate each member of the university community and create a community of acceptance for all individuals."
+  },
+  {
+    "question": "What is the process for getting a paycheck?",
+    "answer": "The first step to getting a paycheck is to have the employer complete the hire paperwork."
+  },
+  {
+    "question": "What is the purpose of the new First-Generation Center?",
+    "answer": "The new First-Generation Center is looking for its inaugural class of mentors to assist first-year students."
+  },
+  {
+    "question": "What is the schedule for the prayer and meditation space?",
+    "answer": "The prayer and meditation space is open all hours that RHUU is open."
+  },
+  {
+    "question": "When are university employees paid?",
+    "answer": "University employees are paid on the 15th and the last working day of the month."
+  },
+
+  {
+    "question": "What is the fixed amount for work-study earnings?",
+    "answer": "The fixed amount for work-study earnings is specified on your award notification."
+  },
+  {
+    "question": "What benefit can work-study positions provide towards Graduation with Leadership Distinction (GLD) in community service?",
+    "answer": "Work-study positions can provide an excellent springboard toward Graduation with Leadership Distinction (GLD) in community service by strengthening the university's partnership with local agencies and meeting specific needs within the community."
+  },
+  {
+    "question": "How many work-study positions can a student hold simultaneously?",
+    "answer": "While we do not encourage students to hold multiple work-study positions, they are allowed to work more than one job at a time. However, they cannot work more than 20 hours in any week."
+  },
+  {
+    "question": "Why might a student not receive a check on the first pay date after beginning work?",
+    "answer": "A student might not receive a check on the first pay date after beginning work due to the time required to process payroll forms. It is important to submit paperwork promptly to avoid additional delays."
+  },
+  {
+    "question": "What are Bella Veal's major and favorite memory?",
+    "answer": "Bella Veal is a sophomore marketing and music industry studies major. One of her favorite memories is a trip she recently took with a couple of classmates to Greenville to help with a John5 concert."
+  },
+  {
+    "question": "What opportunities has Bella Veal had through the music industry studies program?",
+    "answer": "Through the music industry studies program, Bella Veal has had opportunities like interning at multiple Danny Wimmer Presents music festivals throughout the year and attending the NAMM (National Association of Music Merchants) Show with her classmates."
+  },
+
+  {
+    "question": "When are the Let's Talk drop-in sessions held?",
+    "answer": "The Let's Talk drop-in sessions are held from 3-4 pm on Tuesdays and from 1-2 pm on Wednesdays in Russell House Room 303."
+  },
+  {
+    "question": "Who is eligible for recognition and a cash prize through the Libraries Undergraduate Research Awards?",
+    "answer": "All undergraduate students who used library resources to complete a research assignment for a class this year are eligible for recognition and a cash prize through the Libraries Undergraduate Research Awards."
+  },
+  {
+    "question": "When is Future Alumni Week scheduled?",
+    "answer": "Future Alumni Week is scheduled for April 1-5."
+  },
+  {
+    "question": "What kind of events are included in Future Alumni Week?",
+    "answer": "Future Alumni Week includes events ranging from graduation prep to social activities to wellness and personal development."
+  },
+  {
+    "question": "What is the deadline for completing the online application?",
+    "answer": "The deadline for completing the online application is April 17."
+  },
+  {
+    "question": "What is the purpose of Free Speech Week?",
+    "answer": "The purpose of Free Speech Week, which is observed from October 15-21, is to raise public awareness of the importance of freedom of speech and of a free press in democracy."
+  },
+  {
+    "question": "What vaccine is available for protection against COVID-19?",
+    "answer": "The Moderna SPIKEVAX vaccine is available for students, faculty, and staff for protection against COVID-19."
+  },
+
+  {
+    "question": "What are the two tracks featured in the awards?",
+    "answer": "The awards feature two tracks: one for freshmen and sophomores, and one for juniors and seniors, so everything from English 101 papers to senior thesis projects can be submitted."
+  },
+  {
+    "question": "What is the purpose of the changes mentioned?",
+    "answer": "The changes will bring the university's student information system to the latest software version, which incorporates standards and compliance requirements."
+  },
+  {
+    "question": "What is the First-Generation Center looking for?",
+    "answer": "The new First-Generation Center is looking for its inaugural class of mentors."
+  },
+  {
+    "question": "What topics are covered under the heading 'Academics'?",
+    "answer": "Under the heading 'Academics', the topics covered include Experiential Learning, Initiatives, Safety, and Diversity."
+  },
+  {
+    "question": "What topics are covered under the heading 'Recognition'?",
+    "answer": "Under the heading 'Recognition', the topics covered include Academics."
+  },
+  {
+    "question": "What topics are covered under the heading 'Undergraduate Admissions'?",
+    "answer": "Under the heading 'Undergraduate Admissions', the topics covered include Academics."
+  },
+  {
+    "question": "What topics are covered under the heading 'Campus Construction'?",
+    "answer": "Under the heading 'Campus Construction', the topics covered include Experiential Learning, Scholarships, Economic Engagement, and Careers."
+  },
+
+  {
+    "question": "What are the two major events near the Colonial Life Arena on Tuesday, January 23, and what impact will they have?",
+    "answer": "Two major events near the Colonial Life Arena on Tuesday, January 23, will bring more traffic to the area during the afternoon and evening and will affect people who park in those lots."
+  },
+  {
+    "question": "What initiative is USC undertaking regarding campus planning, and how can individuals participate?",
+    "answer": "USC is planning the future of campus, and individuals can participate by using the interactive map to pin their hangouts, most visited locations, and spots that need improvement. This information will be used to discover patterns, challenges, and opportunities and design a plan for the future."
+  },
+  {
+    "question": "What new service is available for USC students, faculty, and staff starting on Monday, February 5?",
+    "answer": "USC students, faculty, and staff can begin ordering food and drinks for on-campus delivery via robots starting on Monday, February 5, through a new partnership with Grubhub and Starship Technologies."
+  },
+  {
+    "question": "What opportunity is available for students through University 101 Programs?",
+    "answer": "University 101 Programs is currently accepting applications for peer leaders to serve as mentors and role models for first-year students in U101 classrooms."
+  },
+  {
+    "question": "What survey is University Libraries launching, and who is it targeting?",
+    "answer": "University Libraries is launching a survey for undergraduate and graduate students to gather feedback about how well they support coursework and research."
+  },
+  {
+    "question": "What feedback is University Libraries seeking from students regarding a particular space?",
+    "answer": "University Libraries seeks student feedback on the best use of the space at the front of Thomas Cooper."
+  },
+  {
+    "question": "Where can one find a full list of events related to the Carolinian Creed?",
+    "answer": "One can find a full list of events related to the Carolinian Creed on the Carolinian Creed website."
+  },
+  {
+    "question": "What parking limitation is in place at Bull Street Garage starting at 5 pm on Tuesday, November 21?",
+    "answer": "Visitor and hourly parking at Bull Street Garage will be limited starting at 5 pm on Tuesday, November 21, for the Thanksgiving break due to construction on lower levels."
+  },
+  {
+    "question": "What opportunity for voting is currently available through Garnet Media Group?",
+    "answer": "Voting is now open for Garnet Media Group's annual publication, Best of Carolina."
+  },
+
+  {
+    "question": "What service is Student Health Services ready to provide?",
+    "answer": "It's time for your flu vaccine, and Student Health Services is ready to help."
+  },
+  {
+    "question": "What new addition has expanded Campus Villages dining options?",
+    "answer": "The Gamecock General store opened in the new housing jewel of south campus, the fourth Gamecock General on the Columbia campus."
+  },
+  {
+    "question": "What is the deadline for applications for University Libraries Student Advisory Council?",
+    "answer": "The deadline for applications for University Libraries Student Advisory Council is October 15."
+  },
+  {
+    "question": "How can drivers reduce their parking ticket late fees during July?",
+    "answer": "Drivers can have their parking ticket late fees reduced through a City of Columbia program running in the month of July."
+  },
+  {
+    "question": "What advice is given to students staying on campus during winter break?",
+    "answer": "For students staying on campus during winter break, remember to stock your fridge before things start to close down after exams."
+  },
+  {
+    "question": "What updates are coming to Starbucks and Whaleys late-night ghost kitchen at Campus Village this spring?",
+    "answer": "New hours are coming to the Starbucks and Whaleys late-night ghost kitchen at Campus Village this spring."
+  },
+  {
+    "question": "What partnership has been formed between Student Government and Athletics?",
+    "answer": "Student Government and Athletics have partnered together to bring portable phone chargers to the student section of the stadium."
+  },
+  {
+    "question": "What action should students, faculty, and staff take regarding Carolina Alert?",
+    "answer": "Students, faculty, and staff should ensure that they are signed up for Carolina Alert through the office of Law Enforcement and Safety."
+  },
+  {
+    "question": "What initiative is the Facilities Department asking students, faculty, and staff to participate in?",
+    "answer": "The Facilities Department asks students, faculty, and staff to fill out a brief survey to help guide future programming as well as improve campus facility infrastructure."
+  },
+  {
+    "question": "What program provides a way for students to recognize USC instructors and teaching assistants?",
+    "answer": "The Thank a Teacher Program provides a way for students to recognize USC instructors and teaching assistants who go the extra mile, challenge and inspire them, and make a difference in their educational journey."
   }
+
+
+
+
+
+
+
 
 
 
