@@ -1,0 +1,86 @@
+input_time|conversation_id|count|intent|user_input| entity_name|entity_value|action|bot_reply|
+2022-10-27 16:16:16.404150|7c7d4bba78834d01937df49e85703aef|U0|greet|hi|
+2022-10-27 16:16:16.412114|7c7d4bba78834d01937df49e85703aef|B0|||||utter_greet|Hey! How are you?
+2022-10-27 16:16:16.412640|7c7d4bba78834d01937df49e85703aef|U1|mood_unhappy|whats upp|
+2022-10-27 16:16:16.412640|7c7d4bba78834d01937df49e85703aef|B1|||||utter_cheer_up|Here is something to cheer you up:
+2022-10-27 16:16:16.412640|7c7d4bba78834d01937df49e85703aef|B2|||||utter_did_that_help|Did that help you?
+2022-10-27 16:16:16.412640|7c7d4bba78834d01937df49e85703aef|U2|goodbye|bye|
+2022-10-27 16:16:16.412640|7c7d4bba78834d01937df49e85703aef|B3|||||utter_goodbye|Bye
+2022-10-27 16:22:22.257649|7c7d4bba78834d01937df49e85703aef|U0|greet|hi|
+2022-10-27 16:22:22.257649|7c7d4bba78834d01937df49e85703aef|B0|||||utter_greet|Hey! How are you?
+2022-10-27 16:22:22.257649|7c7d4bba78834d01937df49e85703aef|U1|mood_unhappy|whats upp|
+2022-10-27 16:22:22.257649|7c7d4bba78834d01937df49e85703aef|B1|||||utter_cheer_up|Here is something to cheer you up:
+2022-10-27 16:22:22.257649|7c7d4bba78834d01937df49e85703aef|B2|||||utter_did_that_help|Did that help you?
+2022-10-27 16:22:22.257649|7c7d4bba78834d01937df49e85703aef|U2|goodbye|bye|
+2022-10-27 16:22:22.266678|7c7d4bba78834d01937df49e85703aef|B3|||||utter_goodbye|Bye
+2022-10-27 16:22:22.266678|7c7d4bba78834d01937df49e85703aef|U3|greet|hi|
+2022-10-27 16:22:22.266678|7c7d4bba78834d01937df49e85703aef|B4|||||utter_greet|Hey! How are you?
+2022-10-27 16:22:22.269051|7c7d4bba78834d01937df49e85703aef|U4|bot_challenge|how are youuuu|
+2022-10-27 16:22:22.269051|7c7d4bba78834d01937df49e85703aef|B5|||||utter_iamabot|I am a bot, powered by Rasa.
+2022-10-27 16:22:34.192255|7c7d4bba78834d01937df49e85703aef|U0|greet|hi|
+2022-10-27 16:22:34.192255|7c7d4bba78834d01937df49e85703aef|B0|||||utter_greet|Hey! How are you?
+2022-10-27 16:22:34.192255|7c7d4bba78834d01937df49e85703aef|U1|mood_unhappy|whats upp|
+2022-10-27 16:22:34.192255|7c7d4bba78834d01937df49e85703aef|B1|||||utter_cheer_up|Here is something to cheer you up:
+2022-10-27 16:22:34.192255|7c7d4bba78834d01937df49e85703aef|B2|||||utter_did_that_help|Did that help you?
+2022-10-27 16:22:34.207906|7c7d4bba78834d01937df49e85703aef|U2|goodbye|bye|
+2022-10-27 16:22:34.207906|7c7d4bba78834d01937df49e85703aef|B3|||||utter_goodbye|Bye
+2022-10-27 16:22:34.207906|7c7d4bba78834d01937df49e85703aef|U3|greet|hi|
+2022-10-27 16:22:34.207906|7c7d4bba78834d01937df49e85703aef|B4|||||utter_greet|Hey! How are you?
+2022-10-27 16:22:34.207906|7c7d4bba78834d01937df49e85703aef|U4|bot_challenge|how are youuuu|
+2022-10-27 16:22:34.207906|7c7d4bba78834d01937df49e85703aef|B5|||||utter_iamabot|I am a bot, powered by Rasa.
+2022-10-27 16:22:34.207906|7c7d4bba78834d01937df49e85703aef|U5|goodbye|bye|
+2022-10-27 16:22:34.207906|7c7d4bba78834d01937df49e85703aef|B6|||||utter_goodbye|Bye
+2022-10-27 16:24:54.513998|a3652bcf738c4b72bfec5c9b8578cd23|U0|greet|hello|
+2022-10-27 16:24:54.513998|a3652bcf738c4b72bfec5c9b8578cd23|B0|||||utter_greet|Hey! How are you?
+2022-10-27 16:24:54.513998|a3652bcf738c4b72bfec5c9b8578cd23|U1|bot_challenge|what do you know|
+2022-10-27 16:24:54.513998|a3652bcf738c4b72bfec5c9b8578cd23|B1|||||utter_iamabot|I am a bot, powered by Rasa.
+2022-10-27 16:24:54.519523|a3652bcf738c4b72bfec5c9b8578cd23|U2|goodbye|bye|
+2022-10-27 16:24:54.519523|a3652bcf738c4b72bfec5c9b8578cd23|B2|||||utter_goodbye|Bye
+2022-10-27 16:24:54.519523|a3652bcf738c4b72bfec5c9b8578cd23|U3|greet|hi|
+2022-10-27 16:24:54.519523|a3652bcf738c4b72bfec5c9b8578cd23|B3|||||utter_greet|Hey! How are you?
+2022-10-27 16:24:54.519523|a3652bcf738c4b72bfec5c9b8578cd23|U4|affirm|sorry|
+2022-10-27 16:24:54.519523|a3652bcf738c4b72bfec5c9b8578cd23|B4|||||utter_happy|Great, carry on!
+2022-10-27 16:25:02.297127|a3652bcf738c4b72bfec5c9b8578cd23|U0|greet|hello|
+2022-10-27 16:25:02.297127|a3652bcf738c4b72bfec5c9b8578cd23|B0|||||utter_greet|Hey! How are you?
+2022-10-27 16:25:02.312776|a3652bcf738c4b72bfec5c9b8578cd23|U1|bot_challenge|what do you know|
+2022-10-27 16:25:02.312776|a3652bcf738c4b72bfec5c9b8578cd23|B1|||||utter_iamabot|I am a bot, powered by Rasa.
+2022-10-27 16:25:02.312776|a3652bcf738c4b72bfec5c9b8578cd23|U2|goodbye|bye|
+2022-10-27 16:25:02.312776|a3652bcf738c4b72bfec5c9b8578cd23|B2|||||utter_goodbye|Bye
+2022-10-27 16:25:02.312776|a3652bcf738c4b72bfec5c9b8578cd23|U3|greet|hi|
+2022-10-27 16:25:02.312776|a3652bcf738c4b72bfec5c9b8578cd23|B3|||||utter_greet|Hey! How are you?
+2022-10-27 16:25:02.312776|a3652bcf738c4b72bfec5c9b8578cd23|U4|affirm|sorry|
+2022-10-27 16:25:02.312776|a3652bcf738c4b72bfec5c9b8578cd23|B4|||||utter_happy|Great, carry on!
+2022-10-27 16:25:02.312776|a3652bcf738c4b72bfec5c9b8578cd23|U5|goodbye|bye|
+2022-10-27 16:25:02.312776|a3652bcf738c4b72bfec5c9b8578cd23|B5|||||utter_goodbye|Bye
+2024-04-07 10:38:58.573652|72a5aa56fdba4657932b06cae7cf1cd0|U0|nlu_fallback|Hey|
+2024-04-07 10:38:58.573703|72a5aa56fdba4657932b06cae7cf1cd0|B0|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:39:41.857222|72a5aa56fdba4657932b06cae7cf1cd0|U0|nlu_fallback|Hey|
+2024-04-07 10:39:41.857281|72a5aa56fdba4657932b06cae7cf1cd0|B0|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:39:41.857370|72a5aa56fdba4657932b06cae7cf1cd0|U1|nlu_fallback|What is multicultural student affairs?|
+2024-04-07 10:39:41.857402|72a5aa56fdba4657932b06cae7cf1cd0|B1|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:39:49.835369|72a5aa56fdba4657932b06cae7cf1cd0|U0|nlu_fallback|Hey|
+2024-04-07 10:39:49.835413|72a5aa56fdba4657932b06cae7cf1cd0|B0|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:39:49.835477|72a5aa56fdba4657932b06cae7cf1cd0|U1|nlu_fallback|What is multicultural student affairs?|
+2024-04-07 10:39:49.835498|72a5aa56fdba4657932b06cae7cf1cd0|B1|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:39:49.835580|72a5aa56fdba4657932b06cae7cf1cd0|U2|nlu_fallback|/stopp|
+2024-04-07 10:39:49.835601|72a5aa56fdba4657932b06cae7cf1cd0|B2|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:51:40.065348|f8eb245fee4c4ccbbc3421faa8c1d70c|U0|nlu_fallback|How significant is the archaeological research being conducted by the Honors College class?|
+2024-04-07 10:51:40.065394|f8eb245fee4c4ccbbc3421faa8c1d70c|B0|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:52:01.382153|f8eb245fee4c4ccbbc3421faa8c1d70c|U0|nlu_fallback|How significant is the archaeological research being conducted by the Honors College class?|
+2024-04-07 10:52:01.382198|f8eb245fee4c4ccbbc3421faa8c1d70c|B0|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:52:01.382269|f8eb245fee4c4ccbbc3421faa8c1d70c|U1|nlu_fallback|What is the purpose of Campus Safety?|
+2024-04-07 10:52:01.382296|f8eb245fee4c4ccbbc3421faa8c1d70c|B1|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:53:42.893563|f8eb245fee4c4ccbbc3421faa8c1d70c|U0|nlu_fallback|How significant is the archaeological research being conducted by the Honors College class?|
+2024-04-07 10:53:42.893611|f8eb245fee4c4ccbbc3421faa8c1d70c|B0|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:53:42.893682|f8eb245fee4c4ccbbc3421faa8c1d70c|U1|nlu_fallback|What is the purpose of Campus Safety?|
+2024-04-07 10:53:42.893709|f8eb245fee4c4ccbbc3421faa8c1d70c|B1|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:53:42.893794|f8eb245fee4c4ccbbc3421faa8c1d70c|U2|nlu_fallback|What is the purpose of Creed Week events?|
+2024-04-07 10:53:42.893849|f8eb245fee4c4ccbbc3421faa8c1d70c|B2|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:54:46.370462|f8eb245fee4c4ccbbc3421faa8c1d70c|U0|nlu_fallback|How significant is the archaeological research being conducted by the Honors College class?|
+2024-04-07 10:54:46.370507|f8eb245fee4c4ccbbc3421faa8c1d70c|B0|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:54:46.370567|f8eb245fee4c4ccbbc3421faa8c1d70c|U1|nlu_fallback|What is the purpose of Campus Safety?|
+2024-04-07 10:54:46.370593|f8eb245fee4c4ccbbc3421faa8c1d70c|B1|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:54:46.370661|f8eb245fee4c4ccbbc3421faa8c1d70c|U2|nlu_fallback|What is the purpose of Creed Week events?|
+2024-04-07 10:54:46.370690|f8eb245fee4c4ccbbc3421faa8c1d70c|B2|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
+2024-04-07 10:54:46.370745|f8eb245fee4c4ccbbc3421faa8c1d70c|U3|nlu_fallback|Hey|
+2024-04-07 10:54:46.370772|f8eb245fee4c4ccbbc3421faa8c1d70c|B3|||||utter_out_of_scope|Sorry, I can't handle that request. Please rephrase the question
