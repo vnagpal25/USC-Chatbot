@@ -1,7 +1,7 @@
 import csv
 import json
 
-with open('all_parsed_12_23.json', 'r') as file:
+with open('all_parsed_2_40.json', 'r') as file:
     data = json.load(file)
 
 csv_filename = "Chat.csv"
