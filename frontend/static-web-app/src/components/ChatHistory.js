@@ -14,19 +14,23 @@ class Message {
 }
 
 
-async function SendRequest(body, DPM, setDPM) {
+async function SendRequest(body, AddMsg) {
   // TODO: Send message body as request to LLM backend
   console.log(body);
-  /*let conn = new WebSocket('localhost:25519');
-  conn.addEventListener('message', (ev) => {
-    setDPM(ev.data);
-  });*/
-  let str = '';
-  DPM.msg = str;
-  setDPM(DPM);
-  for (let i=0; i < 10000; i+=10) {
-    setTimeout(()=>{str=str+'a';DPM.msg = str;setDPM(DPM);}, i);
-  }
+  AddMsg(new Message((await fetch("http://localhost:25519/webhooks/rest/webhook", {
+    method: "POST",
+    body: JSON.stringify({
+      sender: "0",
+      message: body
+    }),
+    headers: {
+      "Content-type": "application/json"
+    }
+  }).then((response) => {
+    return response.json();
+  }))[0].text, 'lm'));
+  
+
   
 
 }
@@ -38,11 +42,6 @@ function Chat() {
   
   const [ CurrMsg, SetCurrMsg ] = useState('');
   
-  // Track displayed message portion
-  const [displayedMsg, setDisplayedMsg] = useState(new Message('', 'lm'));
-
-  // Track if message is being posted
-  const [isPosting, setIsPosting] = useState(false);
 
   let UpdateTxt = (ev) => {
     SetCurrMsg(ev.target.value);
@@ -52,46 +51,11 @@ function Chat() {
   let PostMsg = (ev) => {
     // Posting message
     SetMessages(Messages.concat([new Message(CurrMsg, 'client')]));
-    setIsPosting(true);
-    SendRequest(CurrMsg, displayedMsg, setDisplayedMsg);
+    SendRequest(CurrMsg, (msg)=> SetMessages(Messages.concat([msg])));
+    //SetMessages(Messages.concat([new Message(rsp, 'lm')]));
     // Clear input field after posting msg*/
-    SetCurrMsg('');
     ev.preventDefault();
   };
-/*
-  useEffect(() => {
-    // Display message letter by letter when message is being posted
-    if (isPosting && displayedMsg !== currMsg) {
-      const timer = setTimeout(() => {
-        setDisplayedMsg(currMsg.slice(0, displayedMsg.length + 1));
-      }, 100); // Adjust delay as needed
-      // Clear timeout when component unmounts or when message is fully displayed
-      return () => {
-        clearTimeout(timer);
-        if (displayedMsg === currMsg) {
-          setIsPosting(false);
-        }
-      };
-    }
-  }, [isPosting, displayedMsg, currMsg]);
-
-  return (
-    <div className='chat'>
-      <ul>
-        {messages.map((m, index) => (
-          <li className={m.from} key={index}>
-            {m.from === 'welcome' ? 'Welcome!' : m.msg}
-          </li>
-        ))}
-      </ul>
-      <form onSubmit={postMsg}>
-        <input type='text' placeholder='Ask me anything...' value={currMsg} onChange={updateTxt} />
-        <input type='submit' value='Send' />
-      </form>
-    </div>
-  );
-}
-*/
   let MessageHist = Messages.map((m) => {
         return (
           <li class={m.from}>
@@ -103,7 +67,6 @@ function Chat() {
     <div class='chat'>
       <ul>
         {MessageHist}
-        {isPosting?(<li class='lm'>{displayedMsg.msg+'...'}</li>):null}
 
       </ul>
       <form onSubmit={PostMsg}>
