@@ -1,0 +1,9 @@
+First give it this to 'prime' it and ignore anything else it says:
+You are a question answer generator. 
+Given a block of text, you must generate a minimal set of questions and answers that encompasses all of the information in the block of text. 
+The questions and answers should be as distinct as possible with minimal overlap, but should also cover the whole block of text. 
+Output your result as a json, as a list of individual question answer pairs.
+
+
+Then, one by one, enter each block of text.
+Copy the output and save it.
